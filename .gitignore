@@ -1,0 +1,12 @@
+*
+!app.py
+!requirements.txt
+!README.md
+!.gitignore
+!.streamlit/
+.streamlit/*
+!.streamlit/config.toml
+!data/
+data/*
+!data/forecasts.csv
+!data/status.json
