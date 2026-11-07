@@ -5,6 +5,7 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+from trial_policy import allocate, assess, UNIT_FRACTION
 
 BASE = Path(__file__).resolve().parent
 st.set_page_config(page_title="Walt's Wagers · NCAAB", page_icon="🏀", layout="wide")
@@ -111,13 +112,59 @@ def render_card(match, rank=None):
 <div class="teams"><div><div class="muted">AWAY</div><div class="team">{esc(match['away'])}</div><div class="big">{number(away_pts)}</div>Projected points · Win probability {prob(ap)}</div>
 <div><div class="muted">HOME</div><div class="team">{esc(match['home'])}</div><div class="big">{number(home_pts)}</div>Projected points · Win probability {prob(hp)}</div></div>
 <p>Home projected spread: <strong>{spread}</strong> · Projected total: <strong>{number(total)}</strong></p>
-<div class="muted">RESEARCH ONLY · No verified betting edge · No suggested stakes</div></article>''', unsafe_allow_html=True)
+<div class="muted">RESEARCH PROJECTION · No verified betting edge · No stake attached to this projection</div></article>''', unsafe_allow_html=True)
+
+
+@st.fragment(run_every="60s")
+def show_trial():
+    st.header("Moneyline trial · graded stakes")
+    st.warning("Owner-approved trial · Statistical certification pending. Grades reflect estimated price edge, not a validated confidence level. No bets are placed by this site.")
+    st.markdown("**Grade 5: 1u · Grade 6: 1.5u · Grades 7–10: 2u maximum.** 1u = 0.25% of your fixed starting bankroll; 2u = 0.50%. Total open exposure is capped at 4u (1%).")
+    with st.expander("Grade bands and trial evidence"):
+        st.table(pd.DataFrame({"Model edge above break-even":["5–<6 percentage points","6–<8 pp","8–<10 pp","10–<12 pp","12–<15 pp","15+ pp"],"Grade":[5,6,7,8,9,10],"Maximum stake":["1u","1.5u","2u","2u","2u","2u"]}), alt="Owner-defined edge grades and stakes capped at two units")
+        st.caption("Examined early-season calibration study: 202 selections, +10.75% flat-stake paper ROI, adjusted interval −5.86% to +28.59%, selected calibration gap 8.02%. These do not establish a reliable betting advantage. Trial scope is the opening 27-day window only; other markets stay research-only.")
+    open_units = st.number_input("Your current open moneyline exposure (u)", min_value=0.0, max_value=4.0, value=0.0, step=0.5, key="trial_open_units", help="Enter your actual unsettled exposure. This public viewer does not read or track your betting accounts.")
+    bankroll = st.number_input("Starting trial bankroll ($, optional)", min_value=0.0, value=0.0, step=100.0, key="trial_bankroll", help="Used only for this viewer's stake calculation; not sent to a betting account or published into the snapshot.")
+    if bankroll:
+        st.caption(f"1u = ${bankroll*UNIT_FRACTION:,.2f} · 2u cap = ${bankroll*UNIT_FRACTION*2:,.2f}. Skip a bet if the bookmaker minimum exceeds your stake limit.")
+    try:
+        payload = json.loads((BASE / "data" / "trial.json").read_text(encoding="utf-8-sig"))
+        rows = payload["rows"]
+        if not isinstance(rows, list):
+            raise ValueError("Invalid trial snapshot")
+    except (OSError, ValueError, KeyError, TypeError):
+        st.info("Trial policy is ready. No reviewed price snapshot is published yet.")
+        return
+    current = pd.Timestamp.now(tz="UTC").to_pydatetime()
+    st.caption(f"Odds captured: {payload.get('quote_captured_utc', 'Unavailable')} · Manual snapshot publication · Eligibility checked every minute")
+    picks = allocate(rows, current, float(open_units))
+    funded = [q for q in picks if q["suggested_units"] > 0]
+    if funded:
+        for q in funded:
+            with st.container(border=True):
+                st.subheader(f"{q['selection']} · Grade {q['grade']} · {q['suggested_units']:g}u")
+                start = pd.Timestamp(q["game_start_utc"]).tz_convert("America/New_York").strftime("%b %d · %I:%M %p ET")
+                st.markdown(f"**{q['away_team']} at {q['home_team']}** · {start}")
+                st.markdown(f"{q['sportsbook']} **{float(q['odds']):+.0f}** · Trial-adjusted win probability **{q['probability']:.1%}** · Estimated edge **{q['edge_pp']:.1f} pp**")
+                stake = f" · ${bankroll*UNIT_FRACTION*q['suggested_units']:,.2f}" if bankroll else ""
+                st.caption(f"Suggested manual stake: {q['suggested_units']:g}u{stake} · Quote age {q['quote_age_seconds']/60:.0f} min · Recheck the offered price before betting")
+                if q["budget_limited"]:
+                    st.caption("Stake reduced to keep total open exposure within 4u.")
+    else:
+        st.info("No stake-qualified moneylines at current prices and your remaining exposure limit. Missing, expired or started-game quotes receive no stake.")
+    st.caption(f"Allocated now: {sum(q['suggested_units'] for q in picks):g}u · Existing exposure: {open_units:g}u · Combined maximum: 4u")
+    review = [q for r in rows if (q := assess(r, current, review=True)) is not None and q["review_only"]]
+    if review:
+        with st.expander(f"{len(review)} price checks needed · no current stake"):
+            st.caption("Quotes remain visible for up to four hours for review. After 30 minutes a fresh price is required before any stake is suggested.")
+            for q in review[:10]:
+                st.markdown(f"**{q['selection']}** · {q['sportsbook']} {float(q['odds']):+.0f} · quote {q['quote_age_seconds']/3600:.1f}h old · **recheck odds**")
 
 
 def show_board():
     st.title("🏀 WALT'S WAGERS")
-    st.markdown("### NCAAB model research")
-    st.warning("RESEARCH ONLY — Model forecasts are not certified picks or verified sportsbook lines. Higher win probability does not establish betting value. No staking recommendations.")
+    st.markdown("### NCAAB forecasts and owner-approved moneyline trial")
+    show_trial()
     try:
         data = pd.read_csv(BASE / "data" / "forecasts.csv", low_memory=False)
         required = {"game_start_utc", "away_team", "home_team", "market", "forecast_value"}
@@ -142,7 +189,7 @@ def show_board():
     a, b, c = st.columns(3)
     a.metric("Upcoming matchups", len(upcoming))
     b.metric("Published forecast rows", len(data))
-    c.metric("Certified picks", 0)
+    c.metric("Statistically certified picks", 0)
     st.header("Top Bets · Research candidates")
     st.write("Upcoming moneyline candidates ranked by highest model win probability, one per game. This is not an edge ranking. Fair odds are a model calculation, not an available sportsbook price.")
     candidates = sorted([m for m in upcoming if m["hp"] is not None and m["hp"] != m["ap"]], key=lambda m: (-max(m["hp"], m["ap"]), m["start"], m["home"], m["away"])) if fresh else []
@@ -162,3 +209,4 @@ def show_board():
 
 if __name__ == "__main__":
     show_board()
+

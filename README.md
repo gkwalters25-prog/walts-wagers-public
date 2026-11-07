@@ -1,19 +1,21 @@
 # Walt's Wagers public viewer
 
-Research-only NCAAB projections. No certified picks, verified sportsbook edge, or suggested stakes.
-Top candidates rank upcoming games by model win probability and require a snapshot no older than 24 hours.
-Snapshot time is the original publication time; packaging does not refresh it.
+NCAAB projections and an owner-approved early-season moneyline trial.
+Statistical certification remains pending; grades are owner-defined estimated-price-edge bands, not a validated confidence scale.
 
-## Run
+## Trial sizing
 
-Use Python 3.13 with the pinned requirements, then `streamlit run app.py`.
+- Grade5:1u; grade6:1.5u; grade7–10:2u maximum.
+- 1u=0.25% of a fixed starting dedicated bankroll; maximum open exposure4u=1%.
+- Enter existing unsettled exposure to reduce available allocations. This viewer does not track accounts or place bets.
+- One position per game. Original selection filters remain probability60%+, edge5pp+, positive estimatedEV and moneyline−200to+200.
+- Quotes must be at most30minutes old for stake suggestions; up to4hours old may be shown only for price review, without a current stake. Started games and unsupported forecasts are withheld.
 
-## Streamlit Community Cloud
+The trial uses a separately fitted earlier-season calibration and is restricted to the opening27-day season window. It does not change the private production model or its statistical certification status.
 
-Upload these seven files, preserving folders, to a dedicated `walts-wagers-public` GitHub repository.
-Select that repository, its branch, and `app.py` in Streamlit Community Cloud.
-Select Python 3.13 in Advanced settings. No application secrets are required.
+## Deployment
 
-This repository has no connection to the private database, model, tracker, Sheets, or scheduled tasks.
-Snapshot publication remains manual. To update, review and replace only the two public data files.
-Do not upload the parent project, installer reports, backups, publisher, credentials, or private files.
+Python3.13 with pinned requirements; Streamlit entrypoint `app.py`.
+Snapshot publication is manual. Eligibility refreshes once per minute while a session is active; that does not fetch new sportsbook odds.
+Public data contains only allowlisted derived forecasts and reviewed quote cards. No private database, model parameters, training features, bankroll, tracker, credentials or licensed raw response archives belong in this repository.
+No cloud credentials or connections to betting accounts are required.
