@@ -7,6 +7,7 @@ import pandas as pd
 import streamlit as st
 from trial_policy import allocate, assess, UNIT_FRACTION
 from moneyline_candidates import candidates as priced_candidates, in_range
+from team_total_trial_policy import allocate as allocate_team_totals
 
 BASE = Path(__file__).resolve().parent
 st.set_page_config(page_title="Walt's Wagers · NCAAB", page_icon="🏀", layout="wide")
@@ -123,7 +124,7 @@ def show_trial():
     st.markdown("**Grade 5: 1u · Grade 6: 1.5u · Grades 7–10: 2u maximum.** 1u = 0.25% of your fixed starting bankroll; 2u = 0.50%. There is no total open-exposure limit.")
     with st.expander("Grade bands and trial evidence"):
         st.table(pd.DataFrame({"Model edge above break-even":["5–<6 percentage points","6–<8 pp","8–<10 pp","10–<12 pp","12–<15 pp","15+ pp"],"Grade":[5,6,7,8,9,10],"Maximum stake":["1u","1.5u","2u","2u","2u","2u"]}), alt="Owner-defined edge grades and stakes capped at two units")
-        st.caption("Examined early-season calibration study: 202 selections, +10.75% flat-stake paper ROI, adjusted interval −5.86% to +28.59%, selected calibration gap 8.02%. These do not establish a reliable betting advantage. Trial scope is the opening 27-day window, with games within 18 hours of the forecast and quote capture; other markets stay research-only.")
+        st.caption("Examined early-season calibration study: 202 selections, +10.75% flat-stake paper ROI, adjusted interval −5.86% to +28.59%, selected calibration gap 8.02%. These do not establish a reliable betting advantage. Trial scope is the opening 27-day window, with games within 18 hours of the forecast and quote capture; Spreads and game totals remain research-only.")
     bankroll = st.number_input("Starting trial bankroll ($, optional)", min_value=0.0, value=0.0, step=100.0, key="trial_bankroll", help="Used only for this viewer's stake calculation; not sent to a betting account or published into the snapshot.")
     if bankroll:
         st.caption(f"1u = ${bankroll*UNIT_FRACTION:,.2f} · 2u cap = ${bankroll*UNIT_FRACTION*2:,.2f}. Skip a bet if the bookmaker minimum exceeds your stake limit.")
@@ -197,11 +198,47 @@ def show_top_moneylines():
                 st.write(f"{q['selection']} · {q['sportsbook']} {q['odds']:+.0f} · {q['quote_age_minutes']:.0f} min old · recheck price")
 
 
+
+@st.fragment(run_every="60s")
+def show_team_total_trial():
+    st.header("Team totals · graded trial")
+    st.caption("Owner-approved manual trial · Statistical certification pending · No bets are placed by this site")
+    st.markdown("**4 percentage-point minimum edge · No EV filter · 56%–under 60%: 1u · 60%–under 65%: 2u · 65%+: 3u.**")
+    st.caption("Exactly 65% receives 3u. 1u = 0.25% of your fixed starting bankroll; 3u = 0.75%. No aggregate open-exposure limit. One selection per team per game.")
+    try:
+        payload = json.loads((BASE / "data" / "team_totals_trial.json").read_text(encoding="utf-8-sig"))
+        rows = payload["rows"]
+        if not isinstance(rows, list) or any(not isinstance(r, dict) for r in rows):
+            raise ValueError("Invalid team-total snapshot")
+    except (OSError, ValueError, KeyError, TypeError):
+        st.info("The team-total policy is published. No reviewed team-total price snapshot is available yet.")
+        return
+    st.caption(f"Latest reviewed source run: {payload.get('source_run_utc', 'Unavailable')} · Snapshot publication is manual")
+    if payload.get("status") != "READY":
+        st.info("Waiting for supported current-season inputs. The latest reviewed run has 0–2 games per team; this model requires at least five available games for each team and a verified pregame input match. No current team-total picks or stakes are issued.")
+        rows = []
+    bankroll = st.number_input("Starting team-total bankroll ($, optional)", min_value=0.0, value=0.0, step=100.0, key="team_total_bankroll")
+    picks = allocate_team_totals(rows, pd.Timestamp.now(tz="UTC").to_pydatetime())
+    for q in picks:
+        with st.container(border=True):
+            st.subheader(f"{q['selection_team']} · {q['side'].title()} {float(q['line']):g} · {q['suggested_units']:g}u")
+            st.markdown(f"**{q.get('sportsbook', 'Book unavailable')} {float(q['odds']):+.0f}** · Estimated win probability **{q['probability']:.1%}** · Estimated edge **{q['edge']*100:.1f} pp**")
+            amount = f" · ${bankroll*0.0025*q['suggested_units']:,.2f}" if bankroll else ""
+            st.caption(f"Suggested manual stake: {q['suggested_units']:g}u{amount} · Recheck the offered line and price before betting")
+    st.caption(f"Current qualified team-total positions: {len(picks)} · Suggested total: {sum(q['suggested_units'] for q in picks):g}u · Maximum 3u per bet")
+    with st.expander("Team-total trial grades and historical replay"):
+        st.table(pd.DataFrame({"Predicted win probability":["56%–under 60%","60%–under 65%","65%+"],"Suggested manual stake":["1u","2u","3u"]}))
+        st.markdown("**Historical graded replay: 101 paper bets · 55 wins, 46 losses · +5.61u · +4.71% ROI on 119u staked.**")
+        st.caption("Examined 2024–25 research, not live results. The 95% day-cluster return interval is −13.09% to +22.53%. Only three bets received the 3u grade. These results do not establish statistical certification.")
+    st.caption("Current suggestions require fresh paired half-point quotes, a verified model/input match, at least five available games for each team, and pregame timing. Eligibility is checked every minute; this section does not fetch odds or build new model inputs.")
+
+
 def show_board():
     st.title("🏀 WALT'S WAGERS")
-    st.markdown("### NCAAB forecasts and owner-approved moneyline trial")
+    st.markdown("### NCAAB forecasts and owner-approved trials")
     show_top_moneylines()
     show_trial()
+    show_team_total_trial()
     try:
         data = pd.read_csv(BASE / "data" / "forecasts.csv", low_memory=False)
         required = {"game_start_utc", "away_team", "home_team", "market", "forecast_value"}
@@ -239,6 +276,7 @@ def show_board():
 
 if __name__ == "__main__":
     show_board()
+
 
 
 

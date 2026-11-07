@@ -20,3 +20,9 @@ Snapshot publication is manual. Eligibility refreshes once per minute while a se
 Public data contains only allowlisted derived forecasts and reviewed quote cards. No private database, model parameters, training features, bankroll, tracker, credentials or licensed raw response archives belong in this repository.
 No cloud credentials or connections to betting accounts are required.
 
+
+
+
+## Owner-approved team-total manual trial
+
+4pp minimum edge, no EV filter; 56–under60% =1u,60–under65%=2u,65%+=3u. Exactly65% is3u. No aggregate exposure cap; one position/team/game. Scientific certification remains pending. The public snapshot currently contains no team-total picks because latest reviewed source inputs have0–2games/team, below required5, and a verified direct feature context is not yet published. Eligibility refresh is not an odds fetch or new model run. Private estimator parameters, licensed feature vectors and API keys are not published.
