@@ -15,7 +15,14 @@ def assess(row,now):
     out={'owner_trial_approved':True,'scientifically_certified':False,'suggested_units':0.,'automated_bet_placement':False,'status':'WITHHELD'}
     try:
         if row['candidate_sha256']!=CANDIDATE_SHA256:return out
-        if row.get('input_lineage_verified') is not True or min(row.get('history_games_home',0),row.get('history_games_away',0))<5:return out
+        if row.get('input_lineage_verified') is not True:return out
+        counts=[row.get('history_games_home',0),row.get('history_games_away',0)]
+        if any(isinstance(n,bool) or not isinstance(n,int) or n<0 for n in counts):return out
+        if min(counts)<5:
+            if row.get('history_mode')!='KENPOM_PRIOR_ASSISTED_V1' or row.get('prior_assisted') is not True or row.get('prior_source_verified') is not True:return out
+            pin=row.get('prior_source_sha256','')
+            if len(pin)!=64 or any(c not in '0123456789abcdef' for c in pin):return out
+            if stamp(row['prior_captured_utc'])>stamp(row['parent_forecast_utc']):return out
         if row['market']!='team_totals' or row['side'] not in ('over','under') or row['selection_team']!=row['matched_team']:return out
         p=float(row['selection_probability']);odds=float(row['odds']);other=float(row['opposite_odds']);line=float(row['line']);otherline=float(row['opposite_line'])
         if not all(math.isfinite(v) for v in [p,odds,other,line,otherline]) or min(abs(odds),abs(other))<100 or line!=otherline or abs(line*2-round(line*2))>1e-8 or round(line*2)%2!=1:return out

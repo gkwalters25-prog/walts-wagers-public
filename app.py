@@ -205,6 +205,7 @@ def show_team_total_trial():
     st.caption("Owner-approved manual trial · Statistical certification pending · No bets are placed by this site")
     st.markdown("**4 percentage-point minimum edge · No EV filter · 56%–under 60%: 1u · 60%–under 65%: 2u · 65%+: 3u.**")
     st.caption("Exactly 65% receives 3u. 1u = 0.25% of your fixed starting bankroll; 3u = 0.75%. No aggregate open-exposure limit. One selection per team per game.")
+    st.caption("Early-season access: teams with 0–4 eligible games use verified KenPom priors blended with available games. Picks are labelled prior-assisted. The standard history path applies from five games.")
     try:
         payload = json.loads((BASE / "data" / "team_totals_trial.json").read_text(encoding="utf-8-sig"))
         rows = payload["rows"]
@@ -215,12 +216,16 @@ def show_team_total_trial():
         return
     st.caption(f"Latest reviewed source run: {payload.get('source_run_utc', 'Unavailable')} · Source forecast time preserved")
     if payload.get("status") != "READY":
-        st.info(payload.get("availability_message", "Waiting for at least five available games for each team and a verified pregame input match. No current team-total picks or stakes are issued."))
+        st.info(payload.get("availability_message", "Waiting for verified pregame inputs and a date-matched ratings archive."))
         rows = []
     bankroll = st.number_input("Starting team-total bankroll ($, optional)", min_value=0.0, value=0.0, step=100.0, key="team_total_bankroll")
     picks = allocate_team_totals(rows, pd.Timestamp.now(tz="UTC").to_pydatetime())
+    if payload.get("status") == "READY" and not picks:
+        st.info("Inputs ready; no current offer meets all probability, edge and quote checks.")
     for q in picks:
         with st.container(border=True):
+            if q.get("prior_assisted"):
+                st.caption(f"KenPom prior-assisted estimate · Eligible current games: home {q['history_games_home']}, away {q['history_games_away']}")
             st.subheader(f"{q['selection_team']} · {q['side'].title()} {float(q['line']):g} · {q['suggested_units']:g}u")
             st.markdown(f"**{q.get('sportsbook', 'Book unavailable')} {float(q['odds']):+.0f}** · Estimated win probability **{q['probability']:.1%}** · Estimated edge **{q['edge']*100:.1f} pp**")
             amount = f" · ${bankroll*0.0025*q['suggested_units']:,.2f}" if bankroll else ""
@@ -229,8 +234,8 @@ def show_team_total_trial():
     with st.expander("Team-total trial grades and historical replay"):
         st.table(pd.DataFrame({"Predicted win probability":["56%–under 60%","60%–under 65%","65%+"],"Suggested manual stake":["1u","2u","3u"]}))
         st.markdown("**Historical graded replay: 101 paper bets · 55 wins, 46 losses · +5.61u · +4.71% ROI on 119u staked.**")
-        st.caption("Examined 2024–25 research, not live results. The 95% day-cluster return interval is −13.09% to +22.53%. Only three bets received the 3u grade. These results do not establish statistical certification.")
-    st.caption("Current suggestions require fresh paired half-point quotes, a verified model/input match, at least five available games for each team, and pregame timing. Eligibility is checked every minute; source data and model inputs are supplied by the private refresh job.")
+        st.caption("Examined 2024–25 research, not live results. The 95% day-cluster return interval is −13.09% to +22.53%. Only three bets received the 3u grade. These results do not establish statistical certification. This replay used five-game inputs and does not validate the prior-assisted early-season mode.")
+    st.caption("Current suggestions require fresh paired half-point quotes, a verified model/input match, verified KenPom prior support when either team has fewer than five eligible games, and pregame timing. Eligibility is checked every minute; source data and model inputs are supplied by the private refresh job.")
 
 
 
