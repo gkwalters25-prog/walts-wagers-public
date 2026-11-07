@@ -8,7 +8,7 @@ Statistical certification remains pending; grades are owner-defined estimated-pr
 - Grade5:1u; grade6:1.5u; grade7–10:2u maximum.
 - 1u=0.25% of a fixed starting dedicated bankroll; maximum open exposure4u=1%.
 - Enter existing unsettled exposure to reduce available allocations. This viewer does not track accounts or place bets.
-- One position per game. Original selection filters remain probability60%+, edge5pp+, positive estimatedEV and moneyline−200to+200.
+- One position per game, within18hours of the original forecast and quote capture. Original selection filters remain probability60%+, edge5pp+, positive estimatedEV and moneyline−200to+200.
 - Quotes must be at most30minutes old for stake suggestions; up to4hours old may be shown only for price review, without a current stake. Started games and unsupported forecasts are withheld.
 
 The trial uses a separately fitted earlier-season calibration and is restricted to the opening27-day season window. It does not change the private production model or its statistical certification status.

@@ -122,7 +122,7 @@ def show_trial():
     st.markdown("**Grade 5: 1u · Grade 6: 1.5u · Grades 7–10: 2u maximum.** 1u = 0.25% of your fixed starting bankroll; 2u = 0.50%. Total open exposure is capped at 4u (1%).")
     with st.expander("Grade bands and trial evidence"):
         st.table(pd.DataFrame({"Model edge above break-even":["5–<6 percentage points","6–<8 pp","8–<10 pp","10–<12 pp","12–<15 pp","15+ pp"],"Grade":[5,6,7,8,9,10],"Maximum stake":["1u","1.5u","2u","2u","2u","2u"]}), alt="Owner-defined edge grades and stakes capped at two units")
-        st.caption("Examined early-season calibration study: 202 selections, +10.75% flat-stake paper ROI, adjusted interval −5.86% to +28.59%, selected calibration gap 8.02%. These do not establish a reliable betting advantage. Trial scope is the opening 27-day window only; other markets stay research-only.")
+        st.caption("Examined early-season calibration study: 202 selections, +10.75% flat-stake paper ROI, adjusted interval −5.86% to +28.59%, selected calibration gap 8.02%. These do not establish a reliable betting advantage. Trial scope is the opening 27-day window, with games within 18 hours of the forecast and quote capture; other markets stay research-only.")
     open_units = st.number_input("Your current open moneyline exposure (u)", min_value=0.0, max_value=4.0, value=0.0, step=0.5, key="trial_open_units", help="Enter your actual unsettled exposure. This public viewer does not read or track your betting accounts.")
     bankroll = st.number_input("Starting trial bankroll ($, optional)", min_value=0.0, value=0.0, step=100.0, key="trial_bankroll", help="Used only for this viewer's stake calculation; not sent to a betting account or published into the snapshot.")
     if bankroll:

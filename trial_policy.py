@@ -27,6 +27,7 @@ def assess(row,now,review=False):
   if edge<5 or ev<=0:return None
   updated=stamp(row['quote_updated_utc']);captured=stamp(row['quote_captured_utc']);forecast=stamp(row['prediction_timestamp']);parent=stamp(row.get('parent_prediction_timestamp',row['prediction_timestamp']));start=stamp(row['game_start_utc']);scope_a=stamp(row['scope_start_utc']);scope_z=stamp(row['scope_end_utc'])
   if not scope_a<=start<scope_z or not parent<=forecast<=now or not parent<=captured<=now or updated>captured or forecast>=start or start<=now:return None
+  if not 0<(start-parent).total_seconds()<=64800 or not 0<(start-captured).total_seconds()<=64800:return None
   age=(now-updated).total_seconds()
   if not 0<=age<=(14400 if review else 1800) or not 0<=(now-parent).total_seconds()<=14400:return None
   grade=edge_grade(edge);return {**row,'edge_pp':edge,'expected_roi':ev,'grade':grade,'grade_units':grade_units(grade),'quote_age_seconds':age,'review_only':age>1800,'certified':False}
