@@ -163,7 +163,7 @@ def show_trial():
 @st.fragment(run_every="60s")
 def show_top_moneylines():
     st.header("Top Bets · Moneyline research candidates")
-    st.markdown("**Sportsbook price range: −250 to +200 (inclusive).** Ranked by estimated model edge above the offered price’s break-even probability, one selection per game. These are research candidates, not statistically certified picks.")
+    st.markdown("**FanDuel and DraftKings only · Moneyline range: −250 to +200 (inclusive).** Best qualifying price per selection; ranked by estimated model edge above the offered price’s break-even probability, one selection per game. These are research candidates, not statistically certified picks.")
     st.caption("Current candidates require a quote no older than 30 minutes, a forecast no older than 24 hours, and a game that has not started. Model fair odds are not sportsbook prices. Quote eligibility refreshes every minute; odds publication is manual.")
     try:
         payload = json.loads((BASE / "data" / "odds.json").read_text(encoding="utf-8-sig"))
