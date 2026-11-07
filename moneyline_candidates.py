@@ -6,6 +6,7 @@ MIN_ODDS = -250
 MAX_ODDS = 200
 MAX_QUOTE_SECONDS = 1800
 MAX_FORECAST_SECONDS = 86400
+SPORTSBOOKS = {'FanDuel', 'DraftKings'}
 
 
 def in_range(value):
@@ -31,7 +32,7 @@ def candidates(rows, now, review=False):
     valid = []
     for row in rows:
         try:
-            if row.get('market') != 'h2h' or not in_range(row.get('odds')):
+            if row.get('market') != 'h2h' or row.get('sportsbook') not in SPORTSBOOKS or not in_range(row.get('odds')):
                 continue
             odds, p = float(row['odds']), float(row['probability'])
             if not math.isfinite(p) or not 0 < p < 1:
