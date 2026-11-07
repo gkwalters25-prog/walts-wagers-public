@@ -17,7 +17,7 @@
     "credits": 1
   },
   "publication": {
-    "status": "GITHUB_CREDENTIAL_REQUIRED"
+    "status": "READY"
   },
   "automatic_interval_minutes": 10,
   "native_model_refresh_hours": 2,
