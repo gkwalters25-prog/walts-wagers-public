@@ -26,3 +26,8 @@ No cloud credentials or connections to betting accounts are required.
 ## Owner-approved team-total manual trial
 
 4pp minimum edge, no EV filter; 56–under60% =1u,60–under65%=2u,65%+=3u. Exactly65% is3u. No aggregate exposure cap; one position/team/game. Scientific certification remains pending. The public snapshot currently contains no team-total picks because latest reviewed source inputs have0–2games/team, below required5, and a verified direct feature context is not yet published. Eligibility refresh is not an odds fetch or new model run. Private estimator parameters, licensed feature vectors and API keys are not published.
+
+
+## Private automatic feed
+
+The installed Windows worker refreshes odds every10minutes and model runs when older than2hours. It preserves forecast/quote times, builds the frozen directteamtotal feature schema from conservatively available currentseason boxes/KenPom, and pushes only allowlisted derived files. Private API keys/modelparameters stay local. Unattended GitHub pushes require a repository-only Contents read/write token in production/owner_trials/app_publisher/.env. Missing credentials cause scheduled runs to wait without API calls; status is visible. No wager placement or protected2026labels.

@@ -138,7 +138,7 @@ def show_trial():
         st.info("Trial policy is ready. No reviewed price snapshot is published yet.")
         return
     current = pd.Timestamp.now(tz="UTC").to_pydatetime()
-    st.caption(f"Odds captured: {payload.get('quote_captured_utc', 'Unavailable')} · Manual snapshot publication · Eligibility checked every minute")
+    st.caption(f"Odds captured: {payload.get('quote_captured_utc', 'Unavailable')} · Source timestamps preserved · Eligibility checked every minute")
     picks = allocate(rows, current)
     funded = [q for q in picks if q["suggested_units"] > 0]
     if funded:
@@ -165,7 +165,7 @@ def show_trial():
 def show_top_moneylines():
     st.header("Top Bets · Moneyline research candidates")
     st.markdown("**FanDuel and DraftKings only · Moneyline range: −250 to +200 (inclusive).** Best qualifying price per selection; ranked by estimated model edge above the offered price’s break-even probability, one selection per game. These are research candidates, not statistically certified picks.")
-    st.caption("Current candidates require a quote no older than 30 minutes, a forecast no older than 24 hours, and a game that has not started. Model fair odds are not sportsbook prices. Quote eligibility refreshes every minute; odds publication is manual.")
+    st.caption("Current candidates require a quote no older than 30 minutes, a forecast no older than 24 hours, and a game that has not started. Model fair odds are not sportsbook prices. Quote eligibility refreshes every minute; prices are supplied by the private refresh job when connected.")
     try:
         payload = json.loads((BASE / "data" / "odds.json").read_text(encoding="utf-8-sig"))
         rows = payload["rows"]
@@ -213,9 +213,9 @@ def show_team_total_trial():
     except (OSError, ValueError, KeyError, TypeError):
         st.info("The team-total policy is published. No reviewed team-total price snapshot is available yet.")
         return
-    st.caption(f"Latest reviewed source run: {payload.get('source_run_utc', 'Unavailable')} · Snapshot publication is manual")
+    st.caption(f"Latest reviewed source run: {payload.get('source_run_utc', 'Unavailable')} · Source forecast time preserved")
     if payload.get("status") != "READY":
-        st.info("Waiting for supported current-season inputs. The latest reviewed run has 0–2 games per team; this model requires at least five available games for each team and a verified pregame input match. No current team-total picks or stakes are issued.")
+        st.info(payload.get("availability_message", "Waiting for at least five available games for each team and a verified pregame input match. No current team-total picks or stakes are issued."))
         rows = []
     bankroll = st.number_input("Starting team-total bankroll ($, optional)", min_value=0.0, value=0.0, step=100.0, key="team_total_bankroll")
     picks = allocate_team_totals(rows, pd.Timestamp.now(tz="UTC").to_pydatetime())
@@ -230,12 +230,32 @@ def show_team_total_trial():
         st.table(pd.DataFrame({"Predicted win probability":["56%–under 60%","60%–under 65%","65%+"],"Suggested manual stake":["1u","2u","3u"]}))
         st.markdown("**Historical graded replay: 101 paper bets · 55 wins, 46 losses · +5.61u · +4.71% ROI on 119u staked.**")
         st.caption("Examined 2024–25 research, not live results. The 95% day-cluster return interval is −13.09% to +22.53%. Only three bets received the 3u grade. These results do not establish statistical certification.")
-    st.caption("Current suggestions require fresh paired half-point quotes, a verified model/input match, at least five available games for each team, and pregame timing. Eligibility is checked every minute; this section does not fetch odds or build new model inputs.")
+    st.caption("Current suggestions require fresh paired half-point quotes, a verified model/input match, at least five available games for each team, and pregame timing. Eligibility is checked every minute; source data and model inputs are supplied by the private refresh job.")
+
+
+
+@st.fragment(run_every="60s")
+def show_feed_status():
+    try:
+        health = json.loads((BASE / "data" / "refresh_health.json").read_text(encoding="utf-8-sig"))
+    except (OSError, ValueError, TypeError):
+        st.caption("Data refresh status unavailable. Source timestamps remain visible with each market.")
+        return
+    built = pd.to_datetime(health.get("built_utc"), utc=True, errors="coerce")
+    published = health.get("publication", {}).get("status")
+    if published == "GITHUB_CREDENTIAL_REQUIRED":
+        st.info("Automatic publishing needs its private connection completed. The latest reviewed snapshot is shown below; check its timestamps.")
+    elif pd.isna(built) or pd.Timestamp.now(tz="UTC") - built > pd.Timedelta(minutes=30):
+        st.warning("The app feed has not updated recently. Expired prices cannot receive a stake.")
+    else:
+        st.caption("Private refresh job: every 10 minutes · Model refresh: every two hours · Original source timestamps preserved")
+    st.caption(f"Last data build: {health.get('built_utc', 'Unavailable')} · Model run: {health.get('source_run_utc', 'Unavailable')} · Odds capture: {health.get('odds_captured_utc', 'Unavailable')}")
 
 
 def show_board():
     st.title("🏀 WALT'S WAGERS")
     st.markdown("### NCAAB forecasts and owner-approved trials")
+    show_feed_status()
     show_top_moneylines()
     show_trial()
     show_team_total_trial()
@@ -255,7 +275,7 @@ def show_board():
         stamp = pd.NaT
     now = pd.Timestamp.now(tz="UTC")
     fresh = pd.notna(stamp) and pd.Timedelta(0) <= now - stamp <= pd.Timedelta(hours=24)
-    st.caption("Snapshot: " + (str(stamp) if pd.notna(stamp) else "Unknown") + " · Refresh publication is manual")
+    st.caption("Snapshot: " + (str(stamp) if pd.notna(stamp) else "Unknown") + " · Source forecast time preserved")
     if not fresh:
         st.warning("Forecast board snapshot age is unknown, older than 24 hours, or future-dated. Treat these projections as outdated; Top Bets validates its separate odds and forecast timestamps.")
     matches = build_matches(data)

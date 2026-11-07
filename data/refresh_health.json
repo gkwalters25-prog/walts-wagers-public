@@ -1,0 +1,26 @@
+{
+  "built_utc": "2026-11-07T18:44:57.031162+00:00",
+  "source_run_utc": "2026-11-07T18:42:02.624239+00:00",
+  "source_run_id": "20261107T183957771122Z",
+  "model_age_minutes": 2.90678205,
+  "odds_captured_utc": "2026-11-07T18:44:58.400660+00:00",
+  "quote_rows": 134,
+  "matched_forecasts": 35,
+  "team_total_contexts": 0,
+  "team_total_quote_rows": 0,
+  "exclusions": {
+    "no_unique_forecast_match": 20,
+    "team_total_INSUFFICIENT_LAGGED_HISTORY": 35
+  },
+  "source_usage": {
+    "requests": 1,
+    "credits": 1
+  },
+  "publication": {
+    "status": "GITHUB_CREDENTIAL_REQUIRED"
+  },
+  "automatic_interval_minutes": 10,
+  "native_model_refresh_hours": 2,
+  "protected2026_labels_read": false,
+  "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
+}

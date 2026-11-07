@@ -1,41 +1,12 @@
 {
-  "published_utc": "2026-11-07T18:23:26.728659+00:00",
-  "source_run_utc": "2026-11-07T15:56:05.482636+00:00",
-  "source_run_id": "20261107T154811474113Z",
+  "published_utc": "2026-11-07T18:44:57.031162+00:00",
+  "source_run_utc": "2026-11-07T18:42:02.624239+00:00",
+  "source_run_id": "20261107T183957771122Z",
   "status": "WAITING_FOR_SUPPORTED_CURRENT_FEATURES",
+  "rows": [],
   "owner_approved": true,
   "scientifically_certified": false,
-  "minimum_probability": 0.56,
-  "minimum_edge": 0.04,
-  "EV_required": false,
-  "tiers": [
-    {
-      "minimum_probability": 0.56,
-      "exclusive_maximum_probability": 0.6,
-      "units": 1
-    },
-    {
-      "minimum_probability": 0.6,
-      "exclusive_maximum_probability": 0.65,
-      "units": 2
-    },
-    {
-      "minimum_probability": 0.65,
-      "exclusive_maximum_probability": null,
-      "units": 3
-    }
-  ],
-  "maximum_units_per_bet": 3,
-  "aggregate_exposure_cap": null,
-  "current_eligible_positions": 0,
-  "rows": [],
-  "historical_replay": {
-    "bets": 101,
-    "wins": 55,
-    "losses": 46,
-    "profit_units": 5.606158786387244,
-    "staked_units": 119,
-    "roi": 0.0471105780368676,
-    "classification": "Examined historical research, not live results"
-  }
+  "supported_contexts": 0,
+  "availability_message": "Waiting for five conservatively available current-season games per team and a matched ratings archive.",
+  "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
 }
