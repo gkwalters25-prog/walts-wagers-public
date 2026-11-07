@@ -10,3 +10,7 @@
 data/*
 !data/forecasts.csv
 !data/status.json
+!trial_policy.py
+!data/trial.json
+!moneyline_candidates.py
+!data/odds.json
