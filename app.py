@@ -6,6 +6,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 from trial_policy import allocate, assess, UNIT_FRACTION
+from moneyline_candidates import candidates as priced_candidates, in_range
 
 BASE = Path(__file__).resolve().parent
 st.set_page_config(page_title="Walt's Wagers · NCAAB", page_icon="🏀", layout="wide")
@@ -131,6 +132,7 @@ def show_trial():
         rows = payload["rows"]
         if not isinstance(rows, list):
             raise ValueError("Invalid trial snapshot")
+        rows = [r for r in rows if isinstance(r, dict) and in_range(r.get("odds"))]
     except (OSError, ValueError, KeyError, TypeError):
         st.info("Trial policy is ready. No reviewed price snapshot is published yet.")
         return
@@ -158,9 +160,47 @@ def show_trial():
                 st.markdown(f"**{q['selection']}** · {q['sportsbook']} {float(q['odds']):+.0f} · quote {q['quote_age_seconds']/3600:.1f}h old · **recheck odds**")
 
 
+@st.fragment(run_every="60s")
+def show_top_moneylines():
+    st.header("Top Bets · Moneyline research candidates")
+    st.markdown("**Sportsbook price range: −250 to +200 (inclusive).** Ranked by estimated model edge above the offered price’s break-even probability, one selection per game. These are research candidates, not statistically certified picks.")
+    st.caption("Current candidates require a quote no older than 30 minutes, a forecast no older than 24 hours, and a game that has not started. Model fair odds are not sportsbook prices. Quote eligibility refreshes every minute; odds publication is manual.")
+    try:
+        payload = json.loads((BASE / "data" / "odds.json").read_text(encoding="utf-8-sig"))
+        rows = payload["rows"]
+        if not isinstance(rows, list) or any(not isinstance(r, dict) for r in rows):
+            raise ValueError("Invalid odds snapshot")
+    except (OSError, ValueError, KeyError, TypeError):
+        st.info("No sportsbook odds snapshot is published. No moneyline candidates are shown without a price.")
+        return
+    now = pd.Timestamp.now(tz="UTC").to_pydatetime()
+    captured = pd.to_datetime([r.get("quote_captured_utc") for r in rows], utc=True, errors="coerce")
+    last_capture = captured.max() if len(captured) else pd.to_datetime(payload.get("last_source_quote_captured_utc"), utc=True, errors="coerce")
+    st.caption(f"Latest sportsbook snapshot capture: {last_capture if pd.notna(last_capture) else 'Unknown'} · Source quote timestamps preserved")
+    picks = priced_candidates(rows, now)
+    if not picks:
+        st.info("No current moneylines qualify between −250 and +200. Quotes may be missing, stale, outside your range, or lack a positive estimated edge.")
+    for rank, q in enumerate(picks[:5], 1):
+        p = q["probability"]
+        start = pd.Timestamp(q["game_start_utc"]).tz_convert("America/New_York").strftime("%b %d · %I:%M %p ET")
+        st.markdown(f'''<article class="ww-card"><div class="ww-badge">RESEARCH CANDIDATE #{rank}</div>
+<h3>{esc(q['selection'])} · {q['odds']:+.0f}</h3><p><strong>{esc(q['sportsbook'])}</strong> · {esc(q['away_team'])} at {esc(q['home_team'])} · {esc(start)}</p>
+<div class="big">{p:.1%} model win probability</div>
+<p>Price break-even: <strong>{q['break_even']:.1%}</strong> · Estimated edge: <strong>{q['edge_pp']:+.1f} percentage points</strong> · Model fair moneyline: {fair_odds(p)}</p>
+<p class="muted">Book updated: {esc(q['quote_updated_utc'])} · Captured: {esc(q['quote_captured_utc'])} · Quote age: {q['quote_age_minutes']:.0f} min</p>
+<div class="muted">RESEARCH ONLY · Recheck the available price · No stake attached to this candidate</div></article>''', unsafe_allow_html=True)
+    review = priced_candidates(rows, now, review=True)
+    if review:
+        with st.expander(f"{len(review)} older price checks · excluded from current Top Bets"):
+            st.caption("These quotes are 30 minutes to four hours old. They are historical price checks, not current offers.")
+            for q in review[:10]:
+                st.write(f"{q['selection']} · {q['sportsbook']} {q['odds']:+.0f} · {q['quote_age_minutes']:.0f} min old · recheck price")
+
+
 def show_board():
     st.title("🏀 WALT'S WAGERS")
     st.markdown("### NCAAB forecasts and owner-approved moneyline trial")
+    show_top_moneylines()
     show_trial()
     try:
         data = pd.read_csv(BASE / "data" / "forecasts.csv", low_memory=False)
@@ -180,20 +220,13 @@ def show_board():
     fresh = pd.notna(stamp) and pd.Timedelta(0) <= now - stamp <= pd.Timedelta(hours=24)
     st.caption("Snapshot: " + (str(stamp) if pd.notna(stamp) else "Unknown") + " · Refresh publication is manual")
     if not fresh:
-        st.warning("Snapshot age is unknown, older than 24 hours, or future-dated. Top candidates are withheld until a current snapshot is published.")
+        st.warning("Forecast board snapshot age is unknown, older than 24 hours, or future-dated. Treat these projections as outdated; Top Bets validates its separate odds and forecast timestamps.")
     matches = build_matches(data)
     upcoming = [m for m in matches if pd.notna(m["start"]) and m["start"] > now]
     a, b, c = st.columns(3)
     a.metric("Upcoming matchups", len(upcoming))
     b.metric("Published forecast rows", len(data))
     c.metric("Statistically certified picks", 0)
-    st.header("Top Bets · Research candidates")
-    st.write("Upcoming moneyline candidates ranked by highest model win probability, one per game. This is not an edge ranking. Fair odds are a model calculation, not an available sportsbook price.")
-    candidates = sorted([m for m in upcoming if m["hp"] is not None and m["hp"] != m["ap"]], key=lambda m: (-max(m["hp"], m["ap"]), m["start"], m["home"], m["away"])) if fresh else []
-    for rank, match in enumerate(candidates[:5], 1):
-        render_card(match, rank)
-    if not candidates:
-        st.info("No eligible research candidates in the current snapshot.")
     st.header("Matchup board")
     search = st.text_input("Search teams", placeholder="Kentucky, Louisville, Duke…")
     include_past = st.checkbox("Include started games and games with unknown start times", value=False)
@@ -206,5 +239,6 @@ def show_board():
 
 if __name__ == "__main__":
     show_board()
+
 
 
