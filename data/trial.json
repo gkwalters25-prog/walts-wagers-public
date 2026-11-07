@@ -1,11 +1,11 @@
 {
   "policy": {
-    "version": "owner-graded-moneyline-trial-v1",
+    "version": "owner-graded-moneyline-trial-no-exposure-cap-v2",
     "owner_approved": true,
     "statistically_certified": false,
     "unit_bankroll_fraction": 0.0025,
     "maximum_stake_units": 2,
-    "maximum_open_exposure_units": 4,
+    "maximum_open_exposure_units": null,
     "grade_to_units": {
       "5": 1,
       "6": 1.5,
@@ -24,7 +24,8 @@
     "grade_scale_validated": false,
     "created_utc": "2026-11-06T23:56:50.742603+00:00",
     "automated_betting": false,
-    "event_horizon_hours": 18
+    "event_horizon_hours": 18,
+    "aggregate_exposure_limit_enabled": false
   },
   "quote_captured_utc": "2026-11-06T23:56:51.343272+00:00",
   "published_utc": "2026-11-07T00:06:53.649830+00:00",

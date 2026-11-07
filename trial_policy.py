@@ -2,7 +2,6 @@
 import datetime as dt,math
 UNIT_FRACTION=.0025
 MAX_UNITS=2.
-MAX_OPEN_UNITS=4.
 def stamp(value):
  t=dt.datetime.fromisoformat(str(value).replace('Z','+00:00'))
  if t.tzinfo is None:raise ValueError('Timezone required')
@@ -32,11 +31,10 @@ def assess(row,now,review=False):
   if not 0<=age<=(14400 if review else 1800) or not 0<=(now-parent).total_seconds()<=14400:return None
   grade=edge_grade(edge);return {**row,'edge_pp':edge,'expected_roi':ev,'grade':grade,'grade_units':grade_units(grade),'quote_age_seconds':age,'review_only':age>1800,'certified':False}
  except (KeyError,TypeError,ValueError,OverflowError):return None
-def allocate(rows,now,open_units=0.):
- if not math.isfinite(open_units) or not 0<=open_units<=MAX_OPEN_UNITS:raise ValueError('Open exposure must be0–4u')
+def allocate(rows,now):
  valid=[q for r in rows if (q:=assess(r,now)) is not None];valid.sort(key=lambda q:(-q['grade'],-q['expected_roi'],stamp(q['game_start_utc']),str(q['event_id']),q['sportsbook']))
- seen=set();result=[];remaining=MAX_OPEN_UNITS-open_units
+ seen=set();result=[]
  for q in valid:
   if q['event_id'] in seen:continue
-  seen.add(q['event_id']);stake=min(q['grade_units'],remaining);remaining=max(0.,remaining-stake);result.append({**q,'suggested_units':stake,'budget_limited':stake<q['grade_units']})
+  seen.add(q['event_id']);result.append({**q,'suggested_units':q['grade_units']})
  return result
