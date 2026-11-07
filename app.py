@@ -133,7 +133,7 @@ def show_trial():
         rows = payload["rows"]
         if not isinstance(rows, list):
             raise ValueError("Invalid trial snapshot")
-        rows = [r for r in rows if isinstance(r, dict) and in_range(r.get("odds"))]
+        rows = [r for r in rows if isinstance(r, dict) and in_range(r.get("odds")) and r.get("sportsbook") in {"FanDuel", "DraftKings"}]
     except (OSError, ValueError, KeyError, TypeError):
         st.info("Trial policy is ready. No reviewed price snapshot is published yet.")
         return
