@@ -1,16 +1,16 @@
 {
-  "built_utc": "2026-11-08T02:44:50.533675+00:00",
-  "source_run_utc": "2026-11-08T01:57:09.244607+00:00",
-  "source_run_id": "20261108T015450697264Z",
-  "model_age_minutes": 47.688151133333335,
-  "odds_captured_utc": "2026-11-08T02:44:50.912658+00:00",
+  "built_utc": "2026-11-08T02:54:50.541639+00:00",
+  "source_run_utc": "2026-11-08T02:47:07.057325+00:00",
+  "source_run_id": "20261108T024502471291Z",
+  "model_age_minutes": 7.724738566666667,
+  "odds_captured_utc": "2026-11-08T02:54:50.880061+00:00",
   "quote_rows": 38,
   "matched_forecasts": 10,
   "team_total_contexts": 10,
   "prior_assisted_contexts": 10,
   "team_total_quote_rows": 72,
   "exclusions": {
-    "no_unique_forecast_match": 22
+    "no_unique_forecast_match": 19
   },
   "source_usage": {
     "requests": 11,
