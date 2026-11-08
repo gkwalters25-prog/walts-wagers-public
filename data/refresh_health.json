@@ -1,9 +1,9 @@
 {
-  "built_utc": "2026-11-08T04:24:50.919504+00:00",
+  "built_utc": "2026-11-08T04:34:50.939238+00:00",
   "source_run_utc": "2026-11-08T02:47:07.057325+00:00",
   "source_run_id": "20261108T024502471291Z",
-  "model_age_minutes": 97.73103631666666,
-  "odds_captured_utc": "2026-11-08T04:24:51.509476+00:00",
+  "model_age_minutes": 107.73136521666667,
+  "odds_captured_utc": "2026-11-08T04:34:51.522490+00:00",
   "quote_rows": 34,
   "matched_forecasts": 9,
   "team_total_contexts": 9,
