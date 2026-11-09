@@ -1,6 +1,71 @@
 {
-  "published_utc": "2026-11-09T04:44:51.990590+00:00",
+  "published_utc": "2026-11-09T05:00:05.655696+00:00",
   "quote_timestamps_preserved": true,
-  "rows": [],
+  "rows": [
+    {
+      "event_id": "401916315",
+      "market": "h2h",
+      "home_team": "Ohio State Buckeyes",
+      "away_team": "Marshall Thundering Herd",
+      "selection": "Ohio State Buckeyes",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-09T23:00Z",
+      "sportsbook": "DraftKings",
+      "odds": -10000.0,
+      "opposite_odds": 3000.0,
+      "probability": 0.9663090787294831,
+      "quote_updated_utc": "2026-11-09T05:00:05Z",
+      "quote_captured_utc": "2026-11-09T05:00:06.749426+00:00",
+      "prediction_timestamp": "2026-11-09T04:55:41.733236+00:00"
+    },
+    {
+      "event_id": "401916315",
+      "market": "h2h",
+      "home_team": "Ohio State Buckeyes",
+      "away_team": "Marshall Thundering Herd",
+      "selection": "Marshall Thundering Herd",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-09T23:00Z",
+      "sportsbook": "DraftKings",
+      "odds": 3000.0,
+      "opposite_odds": -10000.0,
+      "probability": 0.03369092127051687,
+      "quote_updated_utc": "2026-11-09T05:00:05Z",
+      "quote_captured_utc": "2026-11-09T05:00:06.749426+00:00",
+      "prediction_timestamp": "2026-11-09T04:55:41.733236+00:00"
+    },
+    {
+      "event_id": "401916315",
+      "market": "h2h",
+      "home_team": "Ohio State Buckeyes",
+      "away_team": "Marshall Thundering Herd",
+      "selection": "Ohio State Buckeyes",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-09T23:00Z",
+      "sportsbook": "FanDuel",
+      "odds": -30000.0,
+      "opposite_odds": 4000.0,
+      "probability": 0.9663090787294831,
+      "quote_updated_utc": "2026-11-09T04:58:29Z",
+      "quote_captured_utc": "2026-11-09T05:00:06.749426+00:00",
+      "prediction_timestamp": "2026-11-09T04:55:41.733236+00:00"
+    },
+    {
+      "event_id": "401916315",
+      "market": "h2h",
+      "home_team": "Ohio State Buckeyes",
+      "away_team": "Marshall Thundering Herd",
+      "selection": "Marshall Thundering Herd",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-09T23:00Z",
+      "sportsbook": "FanDuel",
+      "odds": 4000.0,
+      "opposite_odds": -30000.0,
+      "probability": 0.03369092127051687,
+      "quote_updated_utc": "2026-11-09T04:58:29Z",
+      "quote_captured_utc": "2026-11-09T05:00:06.749426+00:00",
+      "prediction_timestamp": "2026-11-09T04:55:41.733236+00:00"
+    }
+  ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
 }
