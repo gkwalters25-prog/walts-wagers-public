@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-09T00:34:50.983988+00:00",
+  "published_utc": "2026-11-09T00:44:51.037687+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -11,11 +11,11 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-09T01:00Z",
       "sportsbook": "DraftKings",
-      "odds": 120.0,
-      "opposite_odds": -142.0,
+      "odds": 124.0,
+      "opposite_odds": -148.0,
       "probability": 0.4968483956637653,
-      "quote_updated_utc": "2026-11-09T00:34:22Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:42Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -27,11 +27,11 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-09T01:00Z",
       "sportsbook": "DraftKings",
-      "odds": -142.0,
-      "opposite_odds": 120.0,
+      "odds": -148.0,
+      "opposite_odds": 124.0,
       "probability": 0.5031516043362347,
-      "quote_updated_utc": "2026-11-09T00:34:22Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:42Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -43,11 +43,11 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-09T01:00Z",
       "sportsbook": "FanDuel",
-      "odds": 118.0,
-      "opposite_odds": -142.0,
+      "odds": 122.0,
+      "opposite_odds": -146.0,
       "probability": 0.4968483956637653,
-      "quote_updated_utc": "2026-11-09T00:34:06Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:26Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -59,11 +59,11 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-09T01:00Z",
       "sportsbook": "FanDuel",
-      "odds": -142.0,
-      "opposite_odds": 118.0,
+      "odds": -146.0,
+      "opposite_odds": 122.0,
       "probability": 0.5031516043362347,
-      "quote_updated_utc": "2026-11-09T00:34:06Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:26Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -78,8 +78,8 @@
       "odds": -270.0,
       "opposite_odds": 220.0,
       "probability": 0.6834866491035079,
-      "quote_updated_utc": "2026-11-09T00:34:22Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:42Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     },
     {
@@ -94,8 +94,8 @@
       "odds": 220.0,
       "opposite_odds": -270.0,
       "probability": 0.31651335089649213,
-      "quote_updated_utc": "2026-11-09T00:34:22Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:42Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     },
     {
@@ -110,8 +110,8 @@
       "odds": -275.0,
       "opposite_odds": 220.0,
       "probability": 0.6834866491035079,
-      "quote_updated_utc": "2026-11-09T00:34:06Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:26Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     },
     {
@@ -126,8 +126,8 @@
       "odds": 220.0,
       "opposite_odds": -275.0,
       "probability": 0.31651335089649213,
-      "quote_updated_utc": "2026-11-09T00:34:06Z",
-      "quote_captured_utc": "2026-11-09T00:34:51.439611+00:00",
+      "quote_updated_utc": "2026-11-09T00:44:26Z",
+      "quote_captured_utc": "2026-11-09T00:44:51.508848+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     }
   ],
