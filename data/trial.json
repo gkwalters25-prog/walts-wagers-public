@@ -1,7 +1,7 @@
 {
-  "published_utc": "2026-11-09T21:44:51.199426+00:00",
-  "quote_captured_utc": "2026-11-09T21:44:51.777299+00:00",
-  "source_forecast_snapshot_utc": "2026-11-09T21:29:08.142718+00:00",
+  "published_utc": "2026-11-09T21:54:51.224422+00:00",
+  "quote_captured_utc": "2026-11-09T21:54:51.832737+00:00",
+  "source_forecast_snapshot_utc": "2026-11-09T21:49:41.843887+00:00",
   "rows": [
     {
       "event_id": "401919733",
@@ -15,10 +15,10 @@
       "odds": -135.0,
       "opposite_odds": 114.0,
       "probability": 0.6319943376956177,
-      "quote_updated_utc": "2026-11-09T21:44:24Z",
-      "quote_captured_utc": "2026-11-09T21:44:51.777299+00:00",
-      "prediction_timestamp": "2026-11-09T21:44:51.199426+00:00",
-      "parent_prediction_timestamp": "2026-11-09T21:25:49.045776+00:00",
+      "quote_updated_utc": "2026-11-09T21:54:50Z",
+      "quote_captured_utc": "2026-11-09T21:54:51.832737+00:00",
+      "prediction_timestamp": "2026-11-09T21:54:51.224422+00:00",
+      "parent_prediction_timestamp": "2026-11-09T21:45:58.944648+00:00",
       "scope_start_utc": "2026-11-01T00:00:00+00:00",
       "scope_end_utc": "2026-11-28T00:00:00+00:00",
       "owner_approved": true,
@@ -28,7 +28,7 @@
       "expected_roi": 0.10013829154422349,
       "grade": 5,
       "grade_units": 1.0,
-      "quote_age_seconds": 35.613623,
+      "quote_age_seconds": 9.029925,
       "review_only": false,
       "suggested_units": 1.0
     }
