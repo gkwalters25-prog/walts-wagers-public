@@ -1,71 +1,7 @@
 {
-  "published_utc": "2026-11-08T23:54:50.946858+00:00",
+  "published_utc": "2026-11-09T00:04:50.894379+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
-    {
-      "event_id": "401929352",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "Incarnate Word Cardinals",
-      "selection": "UTEP Miners",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-09T00:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -1100.0,
-      "opposite_odds": 680.0,
-      "probability": 0.866669713300073,
-      "quote_updated_utc": "2026-11-08T23:54:16Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
-      "prediction_timestamp": "2026-11-08T23:45:47.568577+00:00"
-    },
-    {
-      "event_id": "401929352",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "Incarnate Word Cardinals",
-      "selection": "Incarnate Word Cardinals",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-09T00:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 680.0,
-      "opposite_odds": -1100.0,
-      "probability": 0.13333028669992697,
-      "quote_updated_utc": "2026-11-08T23:54:16Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
-      "prediction_timestamp": "2026-11-08T23:45:47.568577+00:00"
-    },
-    {
-      "event_id": "401929352",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "Incarnate Word Cardinals",
-      "selection": "UTEP Miners",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-09T00:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -950.0,
-      "opposite_odds": 625.0,
-      "probability": 0.866669713300073,
-      "quote_updated_utc": "2026-11-08T23:54:33Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
-      "prediction_timestamp": "2026-11-08T23:45:47.568577+00:00"
-    },
-    {
-      "event_id": "401929352",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "Incarnate Word Cardinals",
-      "selection": "Incarnate Word Cardinals",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-09T00:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 625.0,
-      "opposite_odds": -950.0,
-      "probability": 0.13333028669992697,
-      "quote_updated_utc": "2026-11-08T23:54:33Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
-      "prediction_timestamp": "2026-11-08T23:45:47.568577+00:00"
-    },
     {
       "event_id": "401909707",
       "market": "h2h",
@@ -78,8 +14,8 @@
       "odds": 120.0,
       "opposite_odds": -142.0,
       "probability": 0.4968483956637653,
-      "quote_updated_utc": "2026-11-08T23:54:33Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:00Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -94,8 +30,8 @@
       "odds": -142.0,
       "opposite_odds": 120.0,
       "probability": 0.5031516043362347,
-      "quote_updated_utc": "2026-11-08T23:54:33Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:00Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -110,8 +46,8 @@
       "odds": 118.0,
       "opposite_odds": -142.0,
       "probability": 0.4968483956637653,
-      "quote_updated_utc": "2026-11-08T23:54:16Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:39Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -126,8 +62,8 @@
       "odds": -142.0,
       "opposite_odds": 118.0,
       "probability": 0.5031516043362347,
-      "quote_updated_utc": "2026-11-08T23:54:16Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:39Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.802945+00:00"
     },
     {
@@ -142,8 +78,8 @@
       "odds": -270.0,
       "opposite_odds": 220.0,
       "probability": 0.6834866491035079,
-      "quote_updated_utc": "2026-11-08T23:54:33Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:00Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     },
     {
@@ -158,8 +94,8 @@
       "odds": 220.0,
       "opposite_odds": -270.0,
       "probability": 0.31651335089649213,
-      "quote_updated_utc": "2026-11-08T23:54:33Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:00Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     },
     {
@@ -174,8 +110,8 @@
       "odds": -275.0,
       "opposite_odds": 220.0,
       "probability": 0.6834866491035079,
-      "quote_updated_utc": "2026-11-08T23:54:16Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:39Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     },
     {
@@ -190,8 +126,8 @@
       "odds": 220.0,
       "opposite_odds": -275.0,
       "probability": 0.31651335089649213,
-      "quote_updated_utc": "2026-11-08T23:54:16Z",
-      "quote_captured_utc": "2026-11-08T23:54:51.473575+00:00",
+      "quote_updated_utc": "2026-11-09T00:04:39Z",
+      "quote_captured_utc": "2026-11-09T00:04:51.440538+00:00",
       "prediction_timestamp": "2026-11-08T23:45:47.916105+00:00"
     }
   ],
