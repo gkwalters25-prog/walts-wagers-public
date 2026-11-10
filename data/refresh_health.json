@@ -1,9 +1,9 @@
 {
-  "built_utc": "2026-11-10T14:34:51.586356+00:00",
+  "built_utc": "2026-11-10T14:44:51.546495+00:00",
   "source_run_utc": "2026-11-10T14:03:44.554839+00:00",
   "source_run_id": "20261110T140003206475Z",
-  "model_age_minutes": 31.11719195,
-  "odds_captured_utc": "2026-11-10T14:34:52.142879+00:00",
+  "model_age_minutes": 41.116527600000005,
+  "odds_captured_utc": "2026-11-10T14:44:52.094492+00:00",
   "quote_rows": 168,
   "matched_forecasts": 50,
   "team_total_contexts": 50,
@@ -14,7 +14,7 @@
   },
   "source_usage": {
     "requests": 51,
-    "credits": 51
+    "credits": 52
   },
   "publication": {
     "status": "READY"
