@@ -1,14 +1,14 @@
 {
-  "built_utc": "2026-11-10T09:44:17.558324+00:00",
+  "built_utc": "2026-11-10T13:41:52.088297+00:00",
   "source_run_utc": "2026-11-10T02:00:20.299694+00:00",
   "source_run_id": "20261110T015452412221Z",
-  "model_age_minutes": 463.9543105,
-  "odds_captured_utc": "2026-11-10T09:44:18.640017+00:00",
-  "quote_rows": 174,
+  "model_age_minutes": 701.52981005,
+  "odds_captured_utc": "2026-11-10T13:41:55.239178+00:00",
+  "quote_rows": 170,
   "matched_forecasts": 50,
   "team_total_contexts": 50,
   "prior_assisted_contexts": 50,
-  "team_total_quote_rows": 396,
+  "team_total_quote_rows": 532,
   "exclusions": {
     "no_unique_forecast_match": 6
   },
