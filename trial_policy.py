@@ -21,7 +21,7 @@ def assess(row,now,review=False):
  try:
   if row.get('market')!='h2h' or row.get('owner_approved') is not True or row.get('certified') is not False or row.get('lineage_verified') is not True:return None
   p=float(row['probability']);odds=float(row['odds']);opposite=float(row['opposite_odds']);be=implied(odds);other=implied(opposite)
-  if not math.isfinite(p) or not .6<=p<1 or not -200<=odds<=200 or not .98<=be+other<=1.20:return None
+  if not math.isfinite(p) or not .6<=p<1 or not -250<=odds<=200 or not .98<=be+other<=1.20:return None
   edge=100*(p-be);ev=p/be-1
   if edge<5 or ev<=0:return None
   updated=stamp(row['quote_updated_utc']);captured=stamp(row['quote_captured_utc']);forecast=stamp(row['prediction_timestamp']);parent=stamp(row.get('parent_prediction_timestamp',row['prediction_timestamp']));start=stamp(row['game_start_utc']);scope_a=stamp(row['scope_start_utc']);scope_z=stamp(row['scope_end_utc'])
