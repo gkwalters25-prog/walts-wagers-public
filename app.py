@@ -257,13 +257,106 @@ def show_feed_status():
     st.caption(f"Last data build: {health.get('built_utc', 'Unavailable')} · Model run: {health.get('source_run_utc', 'Unavailable')} · Odds capture: {health.get('odds_captured_utc', 'Unavailable')}")
 
 
+def top_five_table(rows):
+    if rows:
+        st.table(pd.DataFrame(rows))
+    else:
+        st.info("No eligible upcoming entries in the current snapshot.")
+
+
+def top_five_snapshot(name):
+    try:
+        payload = json.loads((BASE / "data" / name).read_text(encoding="utf-8-sig"))
+        if isinstance(payload, dict) and isinstance(payload.get("rows"), list):
+            return payload, [row for row in payload["rows"] if isinstance(row, dict)]
+    except (OSError, ValueError):
+        pass
+    return {}, []
+
+
+def top_five_projections(now):
+    try:
+        meta = json.loads((BASE / "data" / "status.json").read_text(encoding="utf-8-sig"))
+        stamp = pd.to_datetime(meta["generated_utc"], utc=True, errors="raise")
+        if not pd.Timedelta(0) <= now - stamp <= pd.Timedelta(hours=24):
+            return []
+        data = pd.read_csv(BASE / "data" / "forecasts.csv", low_memory=False)
+        return [m for m in build_matches(data) if pd.notna(m["start"]) and m["start"] > now]
+    except (OSError, ValueError, KeyError, TypeError):
+        return []
+
+
+@st.fragment(run_every="60s")
+def show_market_top_five():
+    st.header("Top 5 by market")
+    st.caption("Trial stakes use the existing market rules. 1u equals 0.25% of starting bankroll. Price eligibility updates every minute.")
+    now = pd.Timestamp.now(tz="UTC")
+    current = now.to_pydatetime()
+    moneyline_tab, spread_tab, total_tab, team_tab = st.tabs(
+        ["Moneyline", "Spread", "Game total", "Team total"]
+    )
+    with moneyline_tab:
+        st.caption("FanDuel and DraftKings · −250 to +200 · Highest qualified trial grades first")
+        _, quotes = top_five_snapshot("trial.json")
+        qualified = allocate([
+            q for q in quotes
+            if q.get("sportsbook") in ("FanDuel", "DraftKings") and in_range(q.get("odds"))
+        ], current)
+        rows = [{
+            "Selection": q["selection"], "Book": q["sportsbook"],
+            "Price": f"{float(q['odds']):+.0f}", "Edge": f"{q['edge_pp']:+.1f} pp",
+            "Stake": f"{q['suggested_units']:g}u",
+        } for q in qualified[:5]]
+        if not rows:
+            st.caption("No trial stakes qualify. Showing research candidates when fresh prices are available.")
+            _, odds = top_five_snapshot("odds.json")
+            rows = [{
+                "Selection": q["selection"], "Book": q["sportsbook"],
+                "Price": f"{q['odds']:+.0f}", "Edge": f"{q['edge_pp']:+.1f} pp",
+                "Stake": "Research only",
+            } for q in priced_candidates(odds, current)[:5]]
+        top_five_table(rows)
+
+    projections = top_five_projections(now)
+    with spread_tab:
+        st.caption("Research projections ranked by largest projected margin. Lines are model projections.")
+        spreads = [(m, first(m["group"], "projected_home_margin")) for m in projections]
+        ranked = sorted(((m, v) for m, v in spreads if v is not None),
+                        key=lambda pair: (-abs(pair[1]), pair[0]["start"]))
+        top_five_table([{
+            "Matchup": f"{m['away']} at {m['home']}", "Tipoff": when(m),
+            "Model favorite": m["home"] if margin > 0 else m["away"] if margin < 0 else "Even",
+            "Projected margin": f"{abs(margin):.1f}", "Stake": "Research only",
+        } for m, margin in ranked[:5]])
+    with total_tab:
+        st.caption("Research projections ranked by highest combined score.")
+        totals = [(m, first(m["group"], "projected_total")) for m in projections]
+        ranked = sorted(((m, v) for m, v in totals if v is not None),
+                        key=lambda pair: (-pair[1], pair[0]["start"]))
+        top_five_table([{
+            "Matchup": f"{m['away']} at {m['home']}", "Tipoff": when(m),
+            "Projected total": f"{total:.1f}", "Stake": "Research only",
+        } for m, total in ranked[:5]])
+    with team_tab:
+        st.caption("Qualified team-total trial selections ranked by estimated edge.")
+        payload, quotes = top_five_snapshot("team_totals_trial.json")
+        qualified = allocate_team_totals(quotes, current) if payload.get("status") == "READY" else []
+        top_five_table([{
+            "Selection": f"{q['selection_team']} {q['side'].title()} {float(q['line']):g}",
+            "Book": q["sportsbook"], "Price": f"{float(q['odds']):+.0f}",
+            "Edge": f"{100*q['edge']:+.1f} pp", "Stake": f"{q['suggested_units']:g}u",
+        } for q in qualified[:5]])
+
+
 def show_board():
     st.title("🏀 WALT'S WAGERS")
     st.markdown("### NCAAB forecasts and owner-approved trials")
-    show_feed_status()
-    show_top_moneylines()
-    show_trial()
-    show_team_total_trial()
+    show_market_top_five()
+    with st.expander("Feed status, trial details and research prices"):
+        show_feed_status()
+        show_top_moneylines()
+        show_trial()
+        show_team_total_trial()
     try:
         data = pd.read_csv(BASE / "data" / "forecasts.csv", low_memory=False)
         required = {"game_start_utc", "away_team", "home_team", "market", "forecast_value"}
