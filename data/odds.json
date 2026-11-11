@@ -1,71 +1,7 @@
 {
-  "published_utc": "2026-11-11T02:24:51.166339+00:00",
+  "published_utc": "2026-11-11T02:34:51.308536+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
-    {
-      "event_id": "401909786",
-      "market": "h2h",
-      "home_team": "Kentucky Wildcats",
-      "away_team": "Kansas Jayhawks",
-      "selection": "Kentucky Wildcats",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-11T02:30Z",
-      "sportsbook": "DraftKings",
-      "odds": 180.0,
-      "opposite_odds": -218.0,
-      "probability": 0.3467922018312539,
-      "quote_updated_utc": "2026-11-11T02:24:02Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
-      "prediction_timestamp": "2026-11-11T01:56:08.460897+00:00"
-    },
-    {
-      "event_id": "401909786",
-      "market": "h2h",
-      "home_team": "Kentucky Wildcats",
-      "away_team": "Kansas Jayhawks",
-      "selection": "Kansas Jayhawks",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-11T02:30Z",
-      "sportsbook": "DraftKings",
-      "odds": -218.0,
-      "opposite_odds": 180.0,
-      "probability": 0.6532077981687461,
-      "quote_updated_utc": "2026-11-11T02:24:02Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
-      "prediction_timestamp": "2026-11-11T01:56:08.460897+00:00"
-    },
-    {
-      "event_id": "401909786",
-      "market": "h2h",
-      "home_team": "Kentucky Wildcats",
-      "away_team": "Kansas Jayhawks",
-      "selection": "Kentucky Wildcats",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-11T02:30Z",
-      "sportsbook": "FanDuel",
-      "odds": 180.0,
-      "opposite_odds": -220.0,
-      "probability": 0.3467922018312539,
-      "quote_updated_utc": "2026-11-11T02:24:03Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
-      "prediction_timestamp": "2026-11-11T01:56:08.460897+00:00"
-    },
-    {
-      "event_id": "401909786",
-      "market": "h2h",
-      "home_team": "Kentucky Wildcats",
-      "away_team": "Kansas Jayhawks",
-      "selection": "Kansas Jayhawks",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-11T02:30Z",
-      "sportsbook": "FanDuel",
-      "odds": -220.0,
-      "opposite_odds": 180.0,
-      "probability": 0.6532077981687461,
-      "quote_updated_utc": "2026-11-11T02:24:03Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
-      "prediction_timestamp": "2026-11-11T01:56:08.460897+00:00"
-    },
     {
       "event_id": "401921062",
       "market": "h2h",
@@ -78,8 +14,8 @@
       "odds": -750.0,
       "opposite_odds": 520.0,
       "probability": 0.8039428927989818,
-      "quote_updated_utc": "2026-11-11T02:24:03Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
+      "quote_updated_utc": "2026-11-11T02:34:09Z",
+      "quote_captured_utc": "2026-11-11T02:34:51.937952+00:00",
       "prediction_timestamp": "2026-11-11T01:56:08.527544+00:00"
     },
     {
@@ -94,8 +30,8 @@
       "odds": 520.0,
       "opposite_odds": -750.0,
       "probability": 0.1960571072010182,
-      "quote_updated_utc": "2026-11-11T02:24:03Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
+      "quote_updated_utc": "2026-11-11T02:34:09Z",
+      "quote_captured_utc": "2026-11-11T02:34:51.937952+00:00",
       "prediction_timestamp": "2026-11-11T01:56:08.527544+00:00"
     },
     {
@@ -107,11 +43,11 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-11T03:00Z",
       "sportsbook": "DraftKings",
-      "odds": -800.0,
-      "opposite_odds": 550.0,
+      "odds": -750.0,
+      "opposite_odds": 525.0,
       "probability": 0.8039428927989818,
-      "quote_updated_utc": "2026-11-11T02:24:02Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
+      "quote_updated_utc": "2026-11-11T02:34:04Z",
+      "quote_captured_utc": "2026-11-11T02:34:51.937952+00:00",
       "prediction_timestamp": "2026-11-11T01:56:08.527544+00:00"
     },
     {
@@ -123,11 +59,11 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-11T03:00Z",
       "sportsbook": "DraftKings",
-      "odds": 550.0,
-      "opposite_odds": -800.0,
+      "odds": 525.0,
+      "opposite_odds": -750.0,
       "probability": 0.1960571072010182,
-      "quote_updated_utc": "2026-11-11T02:24:02Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
+      "quote_updated_utc": "2026-11-11T02:34:04Z",
+      "quote_captured_utc": "2026-11-11T02:34:51.937952+00:00",
       "prediction_timestamp": "2026-11-11T01:56:08.527544+00:00"
     },
     {
@@ -142,8 +78,8 @@
       "odds": -630.0,
       "opposite_odds": 450.0,
       "probability": 0.816761022939084,
-      "quote_updated_utc": "2026-11-11T02:24:03Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
+      "quote_updated_utc": "2026-11-11T02:34:10Z",
+      "quote_captured_utc": "2026-11-11T02:34:51.937952+00:00",
       "prediction_timestamp": "2026-11-11T01:56:08.595289+00:00"
     },
     {
@@ -158,8 +94,8 @@
       "odds": 450.0,
       "opposite_odds": -630.0,
       "probability": 0.18323897706091596,
-      "quote_updated_utc": "2026-11-11T02:24:03Z",
-      "quote_captured_utc": "2026-11-11T02:24:51.732455+00:00",
+      "quote_updated_utc": "2026-11-11T02:34:10Z",
+      "quote_captured_utc": "2026-11-11T02:34:51.937952+00:00",
       "prediction_timestamp": "2026-11-11T01:56:08.595289+00:00"
     }
   ],
