@@ -1,7 +1,7 @@
 {
-  "published_utc": "2026-11-12T18:24:50.870020+00:00",
-  "source_run_utc": "2026-11-12T16:32:09.774770+00:00",
-  "source_run_id": "20261112T161452789285Z",
+  "published_utc": "2026-11-12T18:44:21.332466+00:00",
+  "source_run_utc": "2026-11-12T18:44:19.210503+00:00",
+  "source_run_id": "20261112T183451523922Z",
   "status": "READY",
   "rows": [
     {
@@ -27,9 +27,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -55,9 +55,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -83,9 +83,9 @@
       "line": 78.5,
       "opposite_line": 78.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -111,9 +111,9 @@
       "line": 78.5,
       "opposite_line": 78.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -139,9 +139,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -167,9 +167,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -195,9 +195,9 @@
       "line": 78.5,
       "opposite_line": 78.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -223,9 +223,9 @@
       "line": 78.5,
       "opposite_line": 78.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -251,9 +251,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -279,9 +279,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -307,9 +307,9 @@
       "line": 78.5,
       "opposite_line": 78.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -335,9 +335,9 @@
       "line": 78.5,
       "opposite_line": 78.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.683336+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:25.975810+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.044920+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.183575+00:00",
       "game_start_utc": "2026-11-12T23:00Z"
     },
     {
@@ -363,9 +363,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -391,9 +391,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -419,9 +419,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -447,9 +447,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -475,9 +475,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -503,9 +503,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -531,9 +531,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -559,9 +559,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -587,9 +587,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -615,9 +615,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -643,9 +643,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -671,9 +671,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -699,9 +699,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -727,9 +727,9 @@
       "line": 96.5,
       "opposite_line": 96.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -755,9 +755,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -783,9 +783,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:51.936300+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.139525+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.301050+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.306406+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -811,9 +811,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -839,9 +839,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -867,9 +867,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -895,9 +895,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -923,9 +923,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:52Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -951,9 +951,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:52Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -979,9 +979,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:52Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -1007,9 +1007,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:52Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -1035,9 +1035,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:13Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -1063,9 +1063,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:13Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -1091,9 +1091,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:13Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -1119,9 +1119,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:13Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.182383+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.055755+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.555237+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.252964+00:00",
       "game_start_utc": "2026-11-12T23:30Z"
     },
     {
@@ -1147,9 +1147,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1175,9 +1175,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1203,9 +1203,9 @@
       "line": 64.5,
       "opposite_line": 64.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1231,9 +1231,9 @@
       "line": 64.5,
       "opposite_line": 64.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1259,9 +1259,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:23:23Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1287,9 +1287,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:23:23Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1315,9 +1315,9 @@
       "line": 65.5,
       "opposite_line": 65.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:23:23Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1343,9 +1343,9 @@
       "line": 65.5,
       "opposite_line": 65.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:23:23Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1371,9 +1371,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1399,9 +1399,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1427,9 +1427,9 @@
       "line": 64.5,
       "opposite_line": 64.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1455,9 +1455,9 @@
       "line": 64.5,
       "opposite_line": 64.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.398880+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.328727+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:23.826107+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.265217+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1483,9 +1483,9 @@
       "line": 75.5,
       "opposite_line": 75.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1511,9 +1511,9 @@
       "line": 75.5,
       "opposite_line": 75.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1539,9 +1539,9 @@
       "line": 62.5,
       "opposite_line": 62.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1567,9 +1567,9 @@
       "line": 62.5,
       "opposite_line": 62.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1595,9 +1595,9 @@
       "line": 75.5,
       "opposite_line": 75.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:29Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1623,9 +1623,9 @@
       "line": 75.5,
       "opposite_line": 75.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:29Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1651,9 +1651,9 @@
       "line": 61.5,
       "opposite_line": 61.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:29Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1679,9 +1679,9 @@
       "line": 61.5,
       "opposite_line": 61.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:29Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1707,9 +1707,9 @@
       "line": 75.5,
       "opposite_line": 75.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1735,9 +1735,9 @@
       "line": 75.5,
       "opposite_line": 75.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1763,9 +1763,9 @@
       "line": 61.5,
       "opposite_line": 61.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1791,9 +1791,9 @@
       "line": 61.5,
       "opposite_line": 61.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.684066+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.228941+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.069011+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.185805+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1819,9 +1819,9 @@
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:08Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1847,9 +1847,9 @@
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:08Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1875,9 +1875,9 @@
       "line": 67.5,
       "opposite_line": 67.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:08Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1903,9 +1903,9 @@
       "line": 67.5,
       "opposite_line": 67.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:08Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1925,15 +1925,15 @@
       "side": "over",
       "selection_team": "High Point Panthers",
       "matched_team": "High Point Panthers",
-      "selection_probability": 0.5101378805908219,
-      "odds": -120.0,
-      "opposite_odds": -115.0,
+      "selection_probability": 0.5052465535640812,
+      "odds": -118.0,
+      "opposite_odds": -118.0,
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1953,15 +1953,15 @@
       "side": "under",
       "selection_team": "High Point Panthers",
       "matched_team": "High Point Panthers",
-      "selection_probability": 0.4898621194091781,
-      "odds": -115.0,
-      "opposite_odds": -120.0,
+      "selection_probability": 0.4947534464359188,
+      "odds": -118.0,
+      "opposite_odds": -118.0,
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -1981,15 +1981,15 @@
       "side": "over",
       "selection_team": "Southern Utah Thunderbirds",
       "matched_team": "Southern Utah Thunderbirds",
-      "selection_probability": 0.4913040399492252,
-      "odds": -115.0,
-      "opposite_odds": -120.0,
+      "selection_probability": 0.4814940193606483,
+      "odds": -110.0,
+      "opposite_odds": -125.0,
       "line": 67.5,
       "opposite_line": 67.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2009,15 +2009,15 @@
       "side": "under",
       "selection_team": "Southern Utah Thunderbirds",
       "matched_team": "Southern Utah Thunderbirds",
-      "selection_probability": 0.5086959600507748,
-      "odds": -120.0,
-      "opposite_odds": -115.0,
+      "selection_probability": 0.5185059806393517,
+      "odds": -125.0,
+      "opposite_odds": -110.0,
       "line": 67.5,
       "opposite_line": 67.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2037,43 +2037,43 @@
       "side": "over",
       "selection_team": "High Point Panthers",
       "matched_team": "High Point Panthers",
-      "selection_probability": 0.5160771342988046,
-      "odds": -115.0,
-      "opposite_odds": -105.0,
-      "line": 90.5,
-      "opposite_line": 90.5,
-      "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
-      "game_start_utc": "2026-11-13T00:00Z"
-    },
-    {
-      "candidate_sha256": "70fccfe03d5735ab42676e57dc55d9d82294e011207198126ed12f1b71d1a538",
-      "input_lineage_verified": true,
-      "history_games_home": 3,
-      "history_games_away": 0,
-      "history_mode": "KENPOM_PRIOR_ASSISTED_V1",
-      "prior_assisted": true,
-      "prior_source_verified": true,
-      "prior_source_sha256": "26a696ad4b65dac8d68da756aba854ab833c859f8622a86b1cc013e546fe42e5",
-      "prior_captured_utc": "2026-11-11T21:26:15.055837+00:00",
-      "observed_weight_home": 0.6,
-      "observed_weight_away": 0.0,
-      "event_id": "401920412",
-      "market": "team_totals",
-      "side": "under",
-      "selection_team": "High Point Panthers",
-      "matched_team": "High Point Panthers",
-      "selection_probability": 0.48392286570119536,
+      "selection_probability": 0.49441104661962715,
       "odds": -105.0,
       "opposite_odds": -115.0,
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
+      "game_start_utc": "2026-11-13T00:00Z"
+    },
+    {
+      "candidate_sha256": "70fccfe03d5735ab42676e57dc55d9d82294e011207198126ed12f1b71d1a538",
+      "input_lineage_verified": true,
+      "history_games_home": 3,
+      "history_games_away": 0,
+      "history_mode": "KENPOM_PRIOR_ASSISTED_V1",
+      "prior_assisted": true,
+      "prior_source_verified": true,
+      "prior_source_sha256": "26a696ad4b65dac8d68da756aba854ab833c859f8622a86b1cc013e546fe42e5",
+      "prior_captured_utc": "2026-11-11T21:26:15.055837+00:00",
+      "observed_weight_home": 0.6,
+      "observed_weight_away": 0.0,
+      "event_id": "401920412",
+      "market": "team_totals",
+      "side": "under",
+      "selection_team": "High Point Panthers",
+      "matched_team": "High Point Panthers",
+      "selection_probability": 0.5055889533803728,
+      "odds": -115.0,
+      "opposite_odds": -105.0,
+      "line": 90.5,
+      "opposite_line": 90.5,
+      "sportsbook": "Caesars",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2099,9 +2099,9 @@
       "line": 67.5,
       "opposite_line": 67.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2127,9 +2127,9 @@
       "line": 67.5,
       "opposite_line": 67.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2149,15 +2149,15 @@
       "side": "over",
       "selection_team": "High Point Panthers",
       "matched_team": "High Point Panthers",
-      "selection_probability": 0.5255402389868723,
-      "odds": -125.0,
-      "opposite_odds": -105.0,
+      "selection_probability": 0.5153647474114378,
+      "odds": -120.0,
+      "opposite_odds": -110.0,
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2177,15 +2177,15 @@
       "side": "under",
       "selection_team": "High Point Panthers",
       "matched_team": "High Point Panthers",
-      "selection_probability": 0.4744597610131277,
-      "odds": -105.0,
-      "opposite_odds": -125.0,
+      "selection_probability": 0.4846352525885622,
+      "odds": -110.0,
+      "opposite_odds": -120.0,
       "line": 90.5,
       "opposite_line": 90.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2205,15 +2205,15 @@
       "side": "over",
       "selection_team": "Southern Utah Thunderbirds",
       "matched_team": "Southern Utah Thunderbirds",
-      "selection_probability": 0.5165054287399706,
-      "odds": -125.0,
-      "opposite_odds": -105.0,
-      "line": 66.5,
-      "opposite_line": 66.5,
+      "selection_probability": 0.48607644745250406,
+      "odds": -110.0,
+      "opposite_odds": -120.0,
+      "line": 67.5,
+      "opposite_line": 67.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2233,15 +2233,15 @@
       "side": "under",
       "selection_team": "Southern Utah Thunderbirds",
       "matched_team": "Southern Utah Thunderbirds",
-      "selection_probability": 0.48349457126002937,
-      "odds": -105.0,
-      "opposite_odds": -125.0,
-      "line": 66.5,
-      "opposite_line": 66.5,
+      "selection_probability": 0.5139235525474959,
+      "odds": -120.0,
+      "opposite_odds": -110.0,
+      "line": 67.5,
+      "opposite_line": 67.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:52.998220+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.836981+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.336818+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.948612+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2267,9 +2267,9 @@
       "line": 79.5,
       "opposite_line": 79.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:46Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2295,9 +2295,9 @@
       "line": 79.5,
       "opposite_line": 79.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:46Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2323,9 +2323,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:46Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2351,9 +2351,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:22:46Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2379,9 +2379,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2407,9 +2407,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2435,9 +2435,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2463,9 +2463,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.639980+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.595107+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.581364+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.706311+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2485,15 +2485,15 @@
       "side": "over",
       "selection_team": "Rhode Island Rams",
       "matched_team": "Rhode Island Rams",
-      "selection_probability": 0.5304112515740081,
-      "odds": -125.0,
-      "opposite_odds": -110.0,
-      "line": 79.5,
-      "opposite_line": 79.5,
+      "selection_probability": 0.5010285844638628,
+      "odds": -110.0,
+      "opposite_odds": -125.0,
+      "line": 80.5,
+      "opposite_line": 80.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2513,15 +2513,15 @@
       "side": "under",
       "selection_team": "Rhode Island Rams",
       "matched_team": "Rhode Island Rams",
-      "selection_probability": 0.46958874842599185,
-      "odds": -110.0,
-      "opposite_odds": -125.0,
-      "line": 79.5,
-      "opposite_line": 79.5,
+      "selection_probability": 0.4989714155361372,
+      "odds": -125.0,
+      "opposite_odds": -110.0,
+      "line": 80.5,
+      "opposite_line": 80.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2541,15 +2541,15 @@
       "side": "over",
       "selection_team": "Maryland Eastern Shore Hawks",
       "matched_team": "Maryland Eastern Shore Hawks",
-      "selection_probability": 0.45017894066813496,
-      "odds": -110.0,
-      "opposite_odds": -125.0,
+      "selection_probability": 0.4363850961280313,
+      "odds": -105.0,
+      "opposite_odds": -135.0,
       "line": 57.5,
       "opposite_line": 57.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2569,15 +2569,15 @@
       "side": "under",
       "selection_team": "Maryland Eastern Shore Hawks",
       "matched_team": "Maryland Eastern Shore Hawks",
-      "selection_probability": 0.5498210593318651,
-      "odds": -125.0,
-      "opposite_odds": -110.0,
+      "selection_probability": 0.5636149038719687,
+      "odds": -135.0,
+      "opposite_odds": -105.0,
       "line": 57.5,
       "opposite_line": 57.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:42Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2603,9 +2603,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2631,9 +2631,9 @@
       "line": 80.5,
       "opposite_line": 80.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2659,9 +2659,9 @@
       "line": 56.5,
       "opposite_line": 56.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2687,9 +2687,9 @@
       "line": 56.5,
       "opposite_line": 56.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:53.924136+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.150790+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:24.840968+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.105671+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2715,9 +2715,9 @@
       "line": 88.5,
       "opposite_line": 88.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2743,9 +2743,9 @@
       "line": 88.5,
       "opposite_line": 88.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2771,9 +2771,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2799,9 +2799,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2827,9 +2827,9 @@
       "line": 88.5,
       "opposite_line": 88.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:05Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2855,9 +2855,9 @@
       "line": 88.5,
       "opposite_line": 88.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:05Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2883,9 +2883,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:05Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2911,9 +2911,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:05Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2939,9 +2939,9 @@
       "line": 87.5,
       "opposite_line": 87.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2967,9 +2967,9 @@
       "line": 87.5,
       "opposite_line": 87.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -2995,9 +2995,9 @@
       "line": 62.5,
       "opposite_line": 62.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3023,9 +3023,9 @@
       "line": 62.5,
       "opposite_line": 62.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3051,9 +3051,9 @@
       "line": 87.5,
       "opposite_line": 87.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:21:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3079,9 +3079,9 @@
       "line": 87.5,
       "opposite_line": 87.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:21:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3107,9 +3107,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:21:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3135,9 +3135,9 @@
       "line": 63.5,
       "opposite_line": 63.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:21:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.190580+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.683159+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.097504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.788206+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3163,9 +3163,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3191,9 +3191,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3219,9 +3219,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3247,9 +3247,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3275,9 +3275,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3303,9 +3303,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3331,9 +3331,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3359,9 +3359,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3387,9 +3387,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3415,9 +3415,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3443,9 +3443,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3471,9 +3471,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.463520+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:26.503289+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.345669+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:11.625356+00:00",
       "game_start_utc": "2026-11-13T00:00Z"
     },
     {
@@ -3499,9 +3499,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.723868+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.432841+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.593504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.344587+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3527,9 +3527,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.723868+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.432841+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.593504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.344587+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3555,9 +3555,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.723868+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.432841+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.593504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.344587+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3583,9 +3583,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.723868+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.432841+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:18Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.593504+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.344587+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3611,9 +3611,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3639,9 +3639,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3667,9 +3667,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3695,9 +3695,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:40Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3723,9 +3723,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:31Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3751,9 +3751,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:31Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3779,9 +3779,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:31Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3807,9 +3807,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:31Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3835,9 +3835,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3863,9 +3863,9 @@
       "line": 71.5,
       "opposite_line": 71.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3891,9 +3891,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3919,9 +3919,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:54.999340+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.618048+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:25.968422+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.499253+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3947,9 +3947,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:06Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:47Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -3975,9 +3975,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:06Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:47Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4003,9 +4003,9 @@
       "line": 58.5,
       "opposite_line": 58.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:06Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:47Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4031,9 +4031,9 @@
       "line": 58.5,
       "opposite_line": 58.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:06Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:47Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4059,9 +4059,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4087,9 +4087,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4115,9 +4115,9 @@
       "line": 57.5,
       "opposite_line": 57.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4143,9 +4143,9 @@
       "line": 57.5,
       "opposite_line": 57.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4171,9 +4171,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:42Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4199,9 +4199,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:42Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4227,9 +4227,9 @@
       "line": 57.5,
       "opposite_line": 57.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:42Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4255,9 +4255,9 @@
       "line": 57.5,
       "opposite_line": 57.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:42Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4283,9 +4283,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4311,9 +4311,9 @@
       "line": 83.5,
       "opposite_line": 83.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4339,9 +4339,9 @@
       "line": 58.5,
       "opposite_line": 58.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4367,9 +4367,9 @@
       "line": 58.5,
       "opposite_line": 58.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.377555+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.722947+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.276258+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.577648+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4395,9 +4395,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:23Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4423,9 +4423,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:23Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4451,9 +4451,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:23Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4479,9 +4479,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:23Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4507,9 +4507,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4535,9 +4535,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4563,9 +4563,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4591,9 +4591,9 @@
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:00Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4613,43 +4613,43 @@
       "side": "over",
       "selection_team": "Texas A&M Aggies",
       "matched_team": "Texas A&M Aggies",
-      "selection_probability": 0.493495106264052,
-      "odds": -115.0,
-      "opposite_odds": -105.0,
-      "line": 93.5,
-      "opposite_line": 93.5,
-      "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
-      "game_start_utc": "2026-11-13T01:00Z"
-    },
-    {
-      "candidate_sha256": "70fccfe03d5735ab42676e57dc55d9d82294e011207198126ed12f1b71d1a538",
-      "input_lineage_verified": true,
-      "history_games_home": 3,
-      "history_games_away": 2,
-      "history_mode": "KENPOM_PRIOR_ASSISTED_V1",
-      "prior_assisted": true,
-      "prior_source_verified": true,
-      "prior_source_sha256": "26a696ad4b65dac8d68da756aba854ab833c859f8622a86b1cc013e546fe42e5",
-      "prior_captured_utc": "2026-11-11T21:26:15.055837+00:00",
-      "observed_weight_home": 0.6,
-      "observed_weight_away": 0.4,
-      "event_id": "401919041",
-      "market": "team_totals",
-      "side": "under",
-      "selection_team": "Texas A&M Aggies",
-      "matched_team": "Texas A&M Aggies",
-      "selection_probability": 0.506504893735948,
+      "selection_probability": 0.471852665101068,
       "odds": -105.0,
       "opposite_odds": -115.0,
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
+      "game_start_utc": "2026-11-13T01:00Z"
+    },
+    {
+      "candidate_sha256": "70fccfe03d5735ab42676e57dc55d9d82294e011207198126ed12f1b71d1a538",
+      "input_lineage_verified": true,
+      "history_games_home": 3,
+      "history_games_away": 2,
+      "history_mode": "KENPOM_PRIOR_ASSISTED_V1",
+      "prior_assisted": true,
+      "prior_source_verified": true,
+      "prior_source_sha256": "26a696ad4b65dac8d68da756aba854ab833c859f8622a86b1cc013e546fe42e5",
+      "prior_captured_utc": "2026-11-11T21:26:15.055837+00:00",
+      "observed_weight_home": 0.6,
+      "observed_weight_away": 0.4,
+      "event_id": "401919041",
+      "market": "team_totals",
+      "side": "under",
+      "selection_team": "Texas A&M Aggies",
+      "matched_team": "Texas A&M Aggies",
+      "selection_probability": 0.5281473348989321,
+      "odds": -115.0,
+      "opposite_odds": -105.0,
+      "line": 93.5,
+      "opposite_line": 93.5,
+      "sportsbook": "Caesars",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4669,15 +4669,15 @@
       "side": "over",
       "selection_team": "Oklahoma State Cowboys",
       "matched_team": "Oklahoma State Cowboys",
-      "selection_probability": 0.46491165393824513,
-      "odds": 100.0,
-      "opposite_odds": -120.0,
+      "selection_probability": 0.4757897417748779,
+      "odds": -105.0,
+      "opposite_odds": -115.0,
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4697,15 +4697,15 @@
       "side": "under",
       "selection_team": "Oklahoma State Cowboys",
       "matched_team": "Oklahoma State Cowboys",
-      "selection_probability": 0.5350883460617548,
-      "odds": -120.0,
-      "opposite_odds": 100.0,
+      "selection_probability": 0.5242102582251221,
+      "odds": -115.0,
+      "opposite_odds": -105.0,
       "line": 85.5,
       "opposite_line": 85.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4731,9 +4731,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4759,9 +4759,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4787,9 +4787,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4815,9 +4815,9 @@
       "line": 84.5,
       "opposite_line": 84.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:55.912910+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.522544+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.550576+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.424251+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4843,9 +4843,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4871,9 +4871,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4899,9 +4899,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4927,9 +4927,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:39Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:22Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4955,9 +4955,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -4983,9 +4983,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5011,9 +5011,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5039,9 +5039,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:02Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5067,9 +5067,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5095,9 +5095,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5123,9 +5123,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5151,9 +5151,9 @@
       "line": 76.5,
       "opposite_line": 76.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.645772+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.803095+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:26.848230+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.661050+00:00",
       "game_start_utc": "2026-11-13T01:00Z"
     },
     {
@@ -5179,9 +5179,9 @@
       "line": 92.5,
       "opposite_line": 92.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5207,9 +5207,9 @@
       "line": 92.5,
       "opposite_line": 92.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5235,9 +5235,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5263,9 +5263,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:04Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:45Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5291,9 +5291,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:24Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5319,9 +5319,9 @@
       "line": 93.5,
       "opposite_line": 93.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:24Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5347,9 +5347,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:24Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5375,9 +5375,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:38Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:24Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5403,9 +5403,9 @@
       "line": 92.5,
       "opposite_line": 92.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5431,9 +5431,9 @@
       "line": 92.5,
       "opposite_line": 92.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5459,9 +5459,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5487,9 +5487,9 @@
       "line": 70.5,
       "opposite_line": 70.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:44Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5509,15 +5509,15 @@
       "side": "over",
       "selection_team": "BYU Cougars",
       "matched_team": "BYU Cougars",
-      "selection_probability": 0.5208015340604111,
-      "odds": 100.0,
-      "opposite_odds": -120.0,
-      "line": 93.5,
-      "opposite_line": 93.5,
+      "selection_probability": 0.5424638546413971,
+      "odds": -110.0,
+      "opposite_odds": -110.0,
+      "line": 92.5,
+      "opposite_line": 92.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5537,15 +5537,15 @@
       "side": "under",
       "selection_team": "BYU Cougars",
       "matched_team": "BYU Cougars",
-      "selection_probability": 0.4791984659395889,
-      "odds": -120.0,
-      "opposite_odds": 100.0,
-      "line": 93.5,
-      "opposite_line": 93.5,
+      "selection_probability": 0.4575361453586029,
+      "odds": -110.0,
+      "opposite_odds": -110.0,
+      "line": 92.5,
+      "opposite_line": 92.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5571,9 +5571,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5599,9 +5599,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:56.928664+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:27.885064+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.205453+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.745308+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5627,9 +5627,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5655,9 +5655,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5683,9 +5683,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5711,9 +5711,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:51Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5739,9 +5739,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5767,9 +5767,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5795,9 +5795,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5823,9 +5823,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:42:28Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5851,9 +5851,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5879,9 +5879,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5907,9 +5907,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5935,9 +5935,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5963,9 +5963,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -5991,9 +5991,9 @@
       "line": 74.5,
       "opposite_line": 74.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -6019,9 +6019,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -6047,9 +6047,9 @@
       "line": 69.5,
       "opposite_line": 69.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:01Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.327692+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.019764+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.502326+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.868822+00:00",
       "game_start_utc": "2026-11-13T02:00Z"
     },
     {
@@ -6075,9 +6075,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6103,9 +6103,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6131,9 +6131,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6159,9 +6159,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:20Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6187,9 +6187,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6215,9 +6215,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6243,9 +6243,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6271,9 +6271,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-12T18:24:36Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:44:19Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6299,9 +6299,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6327,9 +6327,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6355,9 +6355,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6383,9 +6383,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-12T18:24:03Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:43:43Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6411,9 +6411,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6439,9 +6439,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6467,9 +6467,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -6495,9 +6495,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-12T18:24:37Z",
-      "quote_captured_utc": "2026-11-12T18:24:57.894090+00:00",
-      "parent_forecast_utc": "2026-11-12T16:17:28.152082+00:00",
+      "quote_updated_utc": "2026-11-12T18:41:50Z",
+      "quote_captured_utc": "2026-11-12T18:44:27.780800+00:00",
+      "parent_forecast_utc": "2026-11-12T18:36:12.988124+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     }
   ],
