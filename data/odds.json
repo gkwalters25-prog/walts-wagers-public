@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-12T02:44:51.185926+00:00",
+  "published_utc": "2026-11-12T02:54:51.601355+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -14,9 +14,9 @@
       "odds": 285.0,
       "opposite_odds": -360.0,
       "probability": 0.4569540106478605,
-      "quote_updated_utc": "2026-11-12T02:44:20Z",
-      "quote_captured_utc": "2026-11-12T02:44:51.692407+00:00",
-      "prediction_timestamp": "2026-11-12T01:56:07.777157+00:00"
+      "quote_updated_utc": "2026-11-12T02:54:31Z",
+      "quote_captured_utc": "2026-11-12T02:54:52.242665+00:00",
+      "prediction_timestamp": "2026-11-12T02:45:40.146844+00:00"
     },
     {
       "event_id": "401918054",
@@ -30,9 +30,9 @@
       "odds": -360.0,
       "opposite_odds": 285.0,
       "probability": 0.5430459893521395,
-      "quote_updated_utc": "2026-11-12T02:44:20Z",
-      "quote_captured_utc": "2026-11-12T02:44:51.692407+00:00",
-      "prediction_timestamp": "2026-11-12T01:56:07.777157+00:00"
+      "quote_updated_utc": "2026-11-12T02:54:31Z",
+      "quote_captured_utc": "2026-11-12T02:54:52.242665+00:00",
+      "prediction_timestamp": "2026-11-12T02:45:40.146844+00:00"
     },
     {
       "event_id": "401918054",
@@ -46,9 +46,9 @@
       "odds": 285.0,
       "opposite_odds": -365.0,
       "probability": 0.4569540106478605,
-      "quote_updated_utc": "2026-11-12T02:44:22Z",
-      "quote_captured_utc": "2026-11-12T02:44:51.692407+00:00",
-      "prediction_timestamp": "2026-11-12T01:56:07.777157+00:00"
+      "quote_updated_utc": "2026-11-12T02:54:32Z",
+      "quote_captured_utc": "2026-11-12T02:54:52.242665+00:00",
+      "prediction_timestamp": "2026-11-12T02:45:40.146844+00:00"
     },
     {
       "event_id": "401918054",
@@ -62,9 +62,9 @@
       "odds": -365.0,
       "opposite_odds": 285.0,
       "probability": 0.5430459893521395,
-      "quote_updated_utc": "2026-11-12T02:44:22Z",
-      "quote_captured_utc": "2026-11-12T02:44:51.692407+00:00",
-      "prediction_timestamp": "2026-11-12T01:56:07.777157+00:00"
+      "quote_updated_utc": "2026-11-12T02:54:32Z",
+      "quote_captured_utc": "2026-11-12T02:54:52.242665+00:00",
+      "prediction_timestamp": "2026-11-12T02:45:40.146844+00:00"
     }
   ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
