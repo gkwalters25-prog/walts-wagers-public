@@ -1,6 +1,71 @@
 {
-  "published_utc": "2026-11-12T04:44:51.573879+00:00",
+  "published_utc": "2026-11-12T05:04:31.935499+00:00",
   "quote_timestamps_preserved": true,
-  "rows": [],
+  "rows": [
+    {
+      "event_id": "401921086",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Morgan State Bears",
+      "selection": "UMBC Retrievers",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-12T23:00Z",
+      "sportsbook": "FanDuel",
+      "odds": -275.0,
+      "opposite_odds": 220.0,
+      "probability": 0.8044734620826945,
+      "quote_updated_utc": "2026-11-12T05:04:31Z",
+      "quote_captured_utc": "2026-11-12T05:04:37.737077+00:00",
+      "prediction_timestamp": "2026-11-12T04:56:16.368161+00:00"
+    },
+    {
+      "event_id": "401921086",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Morgan State Bears",
+      "selection": "Morgan State Bears",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-12T23:00Z",
+      "sportsbook": "FanDuel",
+      "odds": 220.0,
+      "opposite_odds": -275.0,
+      "probability": 0.19552653791730545,
+      "quote_updated_utc": "2026-11-12T05:04:31Z",
+      "quote_captured_utc": "2026-11-12T05:04:37.737077+00:00",
+      "prediction_timestamp": "2026-11-12T04:56:16.368161+00:00"
+    },
+    {
+      "event_id": "401921086",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Morgan State Bears",
+      "selection": "UMBC Retrievers",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-12T23:00Z",
+      "sportsbook": "DraftKings",
+      "odds": -278.0,
+      "opposite_odds": 225.0,
+      "probability": 0.8044734620826945,
+      "quote_updated_utc": "2026-11-12T05:04:12Z",
+      "quote_captured_utc": "2026-11-12T05:04:37.737077+00:00",
+      "prediction_timestamp": "2026-11-12T04:56:16.368161+00:00"
+    },
+    {
+      "event_id": "401921086",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Morgan State Bears",
+      "selection": "Morgan State Bears",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-12T23:00Z",
+      "sportsbook": "DraftKings",
+      "odds": 225.0,
+      "opposite_odds": -278.0,
+      "probability": 0.19552653791730545,
+      "quote_updated_utc": "2026-11-12T05:04:12Z",
+      "quote_captured_utc": "2026-11-12T05:04:37.737077+00:00",
+      "prediction_timestamp": "2026-11-12T04:56:16.368161+00:00"
+    }
+  ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
 }
