@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-13T05:24:51.270707+00:00",
+  "published_utc": "2026-11-13T05:34:51.219122+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -14,8 +14,8 @@
       "odds": -185.0,
       "opposite_odds": 154.0,
       "probability": 0.7179587357652897,
-      "quote_updated_utc": "2026-11-13T05:24:14Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:24.536576+00:00"
     },
     {
@@ -30,8 +30,8 @@
       "odds": 154.0,
       "opposite_odds": -185.0,
       "probability": 0.2820412642347103,
-      "quote_updated_utc": "2026-11-13T05:24:14Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:24.536576+00:00"
     },
     {
@@ -46,8 +46,8 @@
       "odds": -6500.0,
       "opposite_odds": 2000.0,
       "probability": 0.9652559958568876,
-      "quote_updated_utc": "2026-11-13T05:24:14Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:24.999114+00:00"
     },
     {
@@ -62,8 +62,8 @@
       "odds": 2000.0,
       "opposite_odds": -6500.0,
       "probability": 0.034744004143112406,
-      "quote_updated_utc": "2026-11-13T05:24:14Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:24.999114+00:00"
     },
     {
@@ -75,11 +75,11 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-13T23:00Z",
       "sportsbook": "FanDuel",
-      "odds": -194.0,
-      "opposite_odds": 160.0,
+      "odds": -196.0,
+      "opposite_odds": 162.0,
       "probability": 0.7390938383884432,
-      "quote_updated_utc": "2026-11-13T05:24:34Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:31Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:25.072311+00:00"
     },
     {
@@ -91,11 +91,11 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-13T23:00Z",
       "sportsbook": "FanDuel",
-      "odds": 160.0,
-      "opposite_odds": -194.0,
+      "odds": 162.0,
+      "opposite_odds": -196.0,
       "probability": 0.2609061616115568,
-      "quote_updated_utc": "2026-11-13T05:24:34Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:31Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:25.072311+00:00"
     },
     {
@@ -110,8 +110,8 @@
       "odds": -192.0,
       "opposite_odds": 160.0,
       "probability": 0.7390938383884432,
-      "quote_updated_utc": "2026-11-13T05:24:15Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:25.072311+00:00"
     },
     {
@@ -126,9 +126,73 @@
       "odds": 160.0,
       "opposite_odds": -192.0,
       "probability": 0.2609061616115568,
-      "quote_updated_utc": "2026-11-13T05:24:15Z",
-      "quote_captured_utc": "2026-11-13T05:24:51.821720+00:00",
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
       "prediction_timestamp": "2026-11-13T04:56:25.072311+00:00"
+    },
+    {
+      "event_id": "401902278",
+      "market": "h2h",
+      "home_team": "Butler Bulldogs",
+      "away_team": "Pittsburgh Panthers",
+      "selection": "Butler Bulldogs",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-13T23:30Z",
+      "sportsbook": "FanDuel",
+      "odds": -160.0,
+      "opposite_odds": 132.0,
+      "probability": 0.664603625863316,
+      "quote_updated_utc": "2026-11-13T05:34:31Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
+      "prediction_timestamp": "2026-11-13T04:56:25.147340+00:00"
+    },
+    {
+      "event_id": "401902278",
+      "market": "h2h",
+      "home_team": "Butler Bulldogs",
+      "away_team": "Pittsburgh Panthers",
+      "selection": "Pittsburgh Panthers",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-13T23:30Z",
+      "sportsbook": "FanDuel",
+      "odds": 132.0,
+      "opposite_odds": -160.0,
+      "probability": 0.335396374136684,
+      "quote_updated_utc": "2026-11-13T05:34:31Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
+      "prediction_timestamp": "2026-11-13T04:56:25.147340+00:00"
+    },
+    {
+      "event_id": "401902278",
+      "market": "h2h",
+      "home_team": "Butler Bulldogs",
+      "away_team": "Pittsburgh Panthers",
+      "selection": "Butler Bulldogs",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-13T23:30Z",
+      "sportsbook": "DraftKings",
+      "odds": -162.0,
+      "opposite_odds": 136.0,
+      "probability": 0.664603625863316,
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
+      "prediction_timestamp": "2026-11-13T04:56:25.147340+00:00"
+    },
+    {
+      "event_id": "401902278",
+      "market": "h2h",
+      "home_team": "Butler Bulldogs",
+      "away_team": "Pittsburgh Panthers",
+      "selection": "Pittsburgh Panthers",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-13T23:30Z",
+      "sportsbook": "DraftKings",
+      "odds": 136.0,
+      "opposite_odds": -162.0,
+      "probability": 0.335396374136684,
+      "quote_updated_utc": "2026-11-13T05:34:09Z",
+      "quote_captured_utc": "2026-11-13T05:34:51.792338+00:00",
+      "prediction_timestamp": "2026-11-13T04:56:25.147340+00:00"
     }
   ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
