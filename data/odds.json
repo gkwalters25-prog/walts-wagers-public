@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-13T04:24:51.169707+00:00",
+  "published_utc": "2026-11-13T04:34:51.382249+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -11,11 +11,11 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-13T20:00Z",
       "sportsbook": "DraftKings",
-      "odds": -175.0,
-      "opposite_odds": 145.0,
+      "odds": -185.0,
+      "opposite_odds": 154.0,
       "probability": 0.7698395678080562,
-      "quote_updated_utc": "2026-11-13T04:22:42Z",
-      "quote_captured_utc": "2026-11-13T04:24:51.746255+00:00",
+      "quote_updated_utc": "2026-11-13T04:34:20Z",
+      "quote_captured_utc": "2026-11-13T04:34:52.035366+00:00",
       "prediction_timestamp": "2026-11-13T02:45:22.589962+00:00"
     },
     {
@@ -27,11 +27,11 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-13T20:00Z",
       "sportsbook": "DraftKings",
-      "odds": 145.0,
-      "opposite_odds": -175.0,
+      "odds": 154.0,
+      "opposite_odds": -185.0,
       "probability": 0.23016043219194382,
-      "quote_updated_utc": "2026-11-13T04:22:42Z",
-      "quote_captured_utc": "2026-11-13T04:24:51.746255+00:00",
+      "quote_updated_utc": "2026-11-13T04:34:20Z",
+      "quote_captured_utc": "2026-11-13T04:34:52.035366+00:00",
       "prediction_timestamp": "2026-11-13T02:45:22.589962+00:00"
     }
   ],
