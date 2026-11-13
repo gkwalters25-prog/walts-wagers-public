@@ -1,6 +1,39 @@
 {
-  "published_utc": "2026-11-13T03:34:52.382363+00:00",
+  "published_utc": "2026-11-13T03:44:51.318916+00:00",
   "quote_timestamps_preserved": true,
-  "rows": [],
+  "rows": [
+    {
+      "event_id": "401921167",
+      "market": "h2h",
+      "home_team": "Cleveland State Vikings",
+      "away_team": "West Florida Argonauts",
+      "selection": "Cleveland State Vikings",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-13T20:00Z",
+      "sportsbook": "DraftKings",
+      "odds": -175.0,
+      "opposite_odds": 145.0,
+      "probability": 0.7698395678080562,
+      "quote_updated_utc": "2026-11-13T03:44:12Z",
+      "quote_captured_utc": "2026-11-13T03:44:52.026486+00:00",
+      "prediction_timestamp": "2026-11-13T02:45:22.589962+00:00"
+    },
+    {
+      "event_id": "401921167",
+      "market": "h2h",
+      "home_team": "Cleveland State Vikings",
+      "away_team": "West Florida Argonauts",
+      "selection": "West Florida Argonauts",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-13T20:00Z",
+      "sportsbook": "DraftKings",
+      "odds": 145.0,
+      "opposite_odds": -175.0,
+      "probability": 0.23016043219194382,
+      "quote_updated_utc": "2026-11-13T03:44:12Z",
+      "quote_captured_utc": "2026-11-13T03:44:52.026486+00:00",
+      "prediction_timestamp": "2026-11-13T02:45:22.589962+00:00"
+    }
+  ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
 }
