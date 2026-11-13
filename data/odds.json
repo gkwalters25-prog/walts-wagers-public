@@ -1,135 +1,7 @@
 {
-  "published_utc": "2026-11-13T01:54:51.028433+00:00",
+  "published_utc": "2026-11-13T02:12:52.222889+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
-    {
-      "event_id": "401921741",
-      "market": "h2h",
-      "home_team": "BYU Cougars",
-      "away_team": "Montana State Bobcats",
-      "selection": "BYU Cougars",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -10000.0,
-      "opposite_odds": 2200.0,
-      "probability": 0.9313060504213032,
-      "quote_updated_utc": "2026-11-13T01:54:02Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
-    },
-    {
-      "event_id": "401921741",
-      "market": "h2h",
-      "home_team": "BYU Cougars",
-      "away_team": "Montana State Bobcats",
-      "selection": "Montana State Bobcats",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 2200.0,
-      "opposite_odds": -10000.0,
-      "probability": 0.06869394957869679,
-      "quote_updated_utc": "2026-11-13T01:54:02Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
-    },
-    {
-      "event_id": "401921741",
-      "market": "h2h",
-      "home_team": "BYU Cougars",
-      "away_team": "Montana State Bobcats",
-      "selection": "BYU Cougars",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -5000.0,
-      "opposite_odds": 1800.0,
-      "probability": 0.9313060504213032,
-      "quote_updated_utc": "2026-11-13T01:54:20Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
-    },
-    {
-      "event_id": "401921741",
-      "market": "h2h",
-      "home_team": "BYU Cougars",
-      "away_team": "Montana State Bobcats",
-      "selection": "Montana State Bobcats",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 1800.0,
-      "opposite_odds": -5000.0,
-      "probability": 0.06869394957869679,
-      "quote_updated_utc": "2026-11-13T01:54:20Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
-    },
-    {
-      "event_id": "401911533",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "New Mexico State Aggies",
-      "selection": "UTEP Miners",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -205.0,
-      "opposite_odds": 168.0,
-      "probability": 0.7879999448014876,
-      "quote_updated_utc": "2026-11-13T01:54:02Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
-    },
-    {
-      "event_id": "401911533",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "New Mexico State Aggies",
-      "selection": "New Mexico State Aggies",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 168.0,
-      "opposite_odds": -205.0,
-      "probability": 0.2120000551985124,
-      "quote_updated_utc": "2026-11-13T01:54:02Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
-    },
-    {
-      "event_id": "401911533",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "New Mexico State Aggies",
-      "selection": "UTEP Miners",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -218.0,
-      "opposite_odds": 180.0,
-      "probability": 0.7879999448014876,
-      "quote_updated_utc": "2026-11-13T01:54:20Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
-    },
-    {
-      "event_id": "401911533",
-      "market": "h2h",
-      "home_team": "UTEP Miners",
-      "away_team": "New Mexico State Aggies",
-      "selection": "New Mexico State Aggies",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-13T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 180.0,
-      "opposite_odds": -218.0,
-      "probability": 0.2120000551985124,
-      "quote_updated_utc": "2026-11-13T01:54:20Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
-    },
     {
       "event_id": "401911471",
       "market": "h2h",
@@ -142,9 +14,9 @@
       "odds": -400.0,
       "opposite_odds": 310.0,
       "probability": 0.8058471916191027,
-      "quote_updated_utc": "2026-11-13T01:54:02Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
+      "quote_updated_utc": "2026-11-13T02:12:06Z",
+      "quote_captured_utc": "2026-11-13T02:12:53.396159+00:00",
+      "prediction_timestamp": "2026-11-13T02:06:00.751361+00:00"
     },
     {
       "event_id": "401911471",
@@ -158,9 +30,9 @@
       "odds": 310.0,
       "opposite_odds": -400.0,
       "probability": 0.19415280838089732,
-      "quote_updated_utc": "2026-11-13T01:54:02Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
+      "quote_updated_utc": "2026-11-13T02:12:06Z",
+      "quote_captured_utc": "2026-11-13T02:12:53.396159+00:00",
+      "prediction_timestamp": "2026-11-13T02:06:00.751361+00:00"
     },
     {
       "event_id": "401911471",
@@ -174,9 +46,9 @@
       "odds": -395.0,
       "opposite_odds": 310.0,
       "probability": 0.8058471916191027,
-      "quote_updated_utc": "2026-11-13T01:54:20Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
+      "quote_updated_utc": "2026-11-13T02:12:25Z",
+      "quote_captured_utc": "2026-11-13T02:12:53.396159+00:00",
+      "prediction_timestamp": "2026-11-13T02:06:00.751361+00:00"
     },
     {
       "event_id": "401911471",
@@ -190,9 +62,9 @@
       "odds": 310.0,
       "opposite_odds": -395.0,
       "probability": 0.19415280838089732,
-      "quote_updated_utc": "2026-11-13T01:54:20Z",
-      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
-      "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
+      "quote_updated_utc": "2026-11-13T02:12:25Z",
+      "quote_captured_utc": "2026-11-13T02:12:53.396159+00:00",
+      "prediction_timestamp": "2026-11-13T02:06:00.751361+00:00"
     }
   ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
