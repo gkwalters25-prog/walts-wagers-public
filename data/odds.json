@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-13T01:44:51.016098+00:00",
+  "published_utc": "2026-11-13T01:54:51.028433+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -14,8 +14,8 @@
       "odds": -10000.0,
       "opposite_odds": 2200.0,
       "probability": 0.9313060504213032,
-      "quote_updated_utc": "2026-11-13T01:44:08Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:02Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
     },
     {
@@ -30,8 +30,8 @@
       "odds": 2200.0,
       "opposite_odds": -10000.0,
       "probability": 0.06869394957869679,
-      "quote_updated_utc": "2026-11-13T01:44:08Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:02Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
     },
     {
@@ -46,8 +46,8 @@
       "odds": -5000.0,
       "opposite_odds": 1800.0,
       "probability": 0.9313060504213032,
-      "quote_updated_utc": "2026-11-13T01:44:22Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:20Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
     },
     {
@@ -62,8 +62,8 @@
       "odds": 1800.0,
       "opposite_odds": -5000.0,
       "probability": 0.06869394957869679,
-      "quote_updated_utc": "2026-11-13T01:44:22Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:20Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.121331+00:00"
     },
     {
@@ -78,8 +78,8 @@
       "odds": -205.0,
       "opposite_odds": 168.0,
       "probability": 0.7879999448014876,
-      "quote_updated_utc": "2026-11-13T01:44:08Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:02Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
     },
     {
@@ -94,8 +94,8 @@
       "odds": 168.0,
       "opposite_odds": -205.0,
       "probability": 0.2120000551985124,
-      "quote_updated_utc": "2026-11-13T01:44:08Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:02Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
     },
     {
@@ -110,8 +110,8 @@
       "odds": -218.0,
       "opposite_odds": 180.0,
       "probability": 0.7879999448014876,
-      "quote_updated_utc": "2026-11-13T01:44:22Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:20Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
     },
     {
@@ -126,8 +126,8 @@
       "odds": 180.0,
       "opposite_odds": -218.0,
       "probability": 0.2120000551985124,
-      "quote_updated_utc": "2026-11-13T01:44:22Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:20Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.250537+00:00"
     },
     {
@@ -142,8 +142,8 @@
       "odds": -400.0,
       "opposite_odds": 310.0,
       "probability": 0.8058471916191027,
-      "quote_updated_utc": "2026-11-13T01:44:08Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:02Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
     },
     {
@@ -158,8 +158,8 @@
       "odds": 310.0,
       "opposite_odds": -400.0,
       "probability": 0.19415280838089732,
-      "quote_updated_utc": "2026-11-13T01:44:08Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:02Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
     },
     {
@@ -174,8 +174,8 @@
       "odds": -395.0,
       "opposite_odds": 310.0,
       "probability": 0.8058471916191027,
-      "quote_updated_utc": "2026-11-13T01:44:22Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:20Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
     },
     {
@@ -190,8 +190,8 @@
       "odds": 310.0,
       "opposite_odds": -395.0,
       "probability": 0.19415280838089732,
-      "quote_updated_utc": "2026-11-13T01:44:22Z",
-      "quote_captured_utc": "2026-11-13T01:44:51.649341+00:00",
+      "quote_updated_utc": "2026-11-13T01:54:20Z",
+      "quote_captured_utc": "2026-11-13T01:54:51.611631+00:00",
       "prediction_timestamp": "2026-11-12T23:47:12.376355+00:00"
     }
   ],
