@@ -1,7 +1,7 @@
 {
-  "published_utc": "2026-11-13T02:44:51.151515+00:00",
-  "source_run_utc": "2026-11-13T02:12:49.323237+00:00",
-  "source_run_id": "20261113T020451915345Z",
+  "published_utc": "2026-11-13T02:54:51.181416+00:00",
+  "source_run_utc": "2026-11-13T02:51:30.331903+00:00",
+  "source_run_id": "20261113T024502380724Z",
   "status": "READY",
   "rows": [
     {
@@ -27,9 +27,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-13T02:43:31Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:10Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -55,9 +55,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-13T02:43:31Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:10Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -83,9 +83,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-13T02:43:31Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:10Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -111,9 +111,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "FanDuel",
-      "quote_updated_utc": "2026-11-13T02:43:31Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:10Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -133,15 +133,15 @@
       "side": "over",
       "selection_team": "San Jos\u00e9 State Spartans",
       "matched_team": "San Jos\u00e9 State Spartans",
-      "selection_probability": 0.4794757107074024,
-      "odds": -110.0,
-      "opposite_odds": -120.0,
+      "selection_probability": 0.4693098999527328,
+      "odds": -105.0,
+      "opposite_odds": -125.0,
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-13T02:43:29Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:07Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -161,15 +161,15 @@
       "side": "under",
       "selection_team": "San Jos\u00e9 State Spartans",
       "matched_team": "San Jos\u00e9 State Spartans",
-      "selection_probability": 0.5205242892925976,
-      "odds": -120.0,
-      "opposite_odds": -110.0,
+      "selection_probability": 0.5306901000472672,
+      "odds": -125.0,
+      "opposite_odds": -105.0,
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-13T02:43:29Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:07Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -195,9 +195,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-13T02:43:29Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:07Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -223,9 +223,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "DraftKings",
-      "quote_updated_utc": "2026-11-13T02:43:29Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:07Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -251,9 +251,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-13T02:44:12Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:50Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -279,9 +279,9 @@
       "line": 81.5,
       "opposite_line": 81.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-13T02:44:12Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:50Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -307,9 +307,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-13T02:44:12Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:50Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -335,9 +335,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "BetMGM",
-      "quote_updated_utc": "2026-11-13T02:44:12Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:50Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -357,15 +357,15 @@
       "side": "over",
       "selection_team": "San Jos\u00e9 State Spartans",
       "matched_team": "San Jos\u00e9 State Spartans",
-      "selection_probability": 0.4787638624480471,
-      "odds": -105.0,
-      "opposite_odds": -115.0,
-      "line": 81.5,
-      "opposite_line": 81.5,
+      "selection_probability": 0.5113379120215925,
+      "odds": -120.0,
+      "opposite_odds": 100.0,
+      "line": 80.5,
+      "opposite_line": 80.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-13T02:43:28Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:08Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -385,15 +385,15 @@
       "side": "under",
       "selection_team": "San Jos\u00e9 State Spartans",
       "matched_team": "San Jos\u00e9 State Spartans",
-      "selection_probability": 0.521236137551953,
-      "odds": -115.0,
-      "opposite_odds": -105.0,
-      "line": 81.5,
-      "opposite_line": 81.5,
+      "selection_probability": 0.4886620879784075,
+      "odds": 100.0,
+      "opposite_odds": -120.0,
+      "line": 80.5,
+      "opposite_line": 80.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-13T02:43:28Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:08Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -419,9 +419,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-13T02:43:28Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:08Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     },
     {
@@ -447,9 +447,9 @@
       "line": 72.5,
       "opposite_line": 72.5,
       "sportsbook": "Caesars",
-      "quote_updated_utc": "2026-11-13T02:43:28Z",
-      "quote_captured_utc": "2026-11-13T02:44:51.998568+00:00",
-      "parent_forecast_utc": "2026-11-13T02:06:00.751361+00:00",
+      "quote_updated_utc": "2026-11-13T02:54:08Z",
+      "quote_captured_utc": "2026-11-13T02:54:52.073426+00:00",
+      "parent_forecast_utc": "2026-11-13T02:45:22.453268+00:00",
       "game_start_utc": "2026-11-13T03:00Z"
     }
   ],
