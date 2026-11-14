@@ -1,6 +1,6 @@
 {
-  "published_utc": "2026-11-14T04:44:51.777044+00:00",
-  "quote_captured_utc": "2026-11-14T04:44:52.487653+00:00",
+  "published_utc": "2026-11-14T04:54:51.763331+00:00",
+  "quote_captured_utc": "2026-11-14T04:54:52.472100+00:00",
   "source_forecast_snapshot_utc": "2026-11-14T03:00:52.511463+00:00",
   "rows": [
     {
@@ -15,9 +15,9 @@
       "odds": -185.0,
       "opposite_odds": 154.0,
       "probability": 0.7751429417101232,
-      "quote_updated_utc": "2026-11-14T04:44:22Z",
-      "quote_captured_utc": "2026-11-14T04:44:52.487653+00:00",
-      "prediction_timestamp": "2026-11-14T04:44:51.777044+00:00",
+      "quote_updated_utc": "2026-11-14T04:54:27Z",
+      "quote_captured_utc": "2026-11-14T04:54:52.472100+00:00",
+      "prediction_timestamp": "2026-11-14T04:54:51.763331+00:00",
       "parent_prediction_timestamp": "2026-11-14T02:47:19.320326+00:00",
       "scope_start_utc": "2026-11-01T00:00:00+00:00",
       "scope_end_utc": "2026-11-28T00:00:00+00:00",
@@ -28,7 +28,7 @@
       "expected_roi": 0.1941391264182979,
       "grade": 9,
       "grade_units": 2.0,
-      "quote_age_seconds": 38.040835,
+      "quote_age_seconds": 32.379071,
       "review_only": false,
       "suggested_units": 2.0
     },
@@ -44,9 +44,9 @@
       "odds": -220.0,
       "opposite_odds": 180.0,
       "probability": 0.783970147167031,
-      "quote_updated_utc": "2026-11-14T04:44:04Z",
-      "quote_captured_utc": "2026-11-14T04:44:52.487653+00:00",
-      "prediction_timestamp": "2026-11-14T04:44:51.777044+00:00",
+      "quote_updated_utc": "2026-11-14T04:54:28Z",
+      "quote_captured_utc": "2026-11-14T04:54:52.472100+00:00",
+      "prediction_timestamp": "2026-11-14T04:54:51.763331+00:00",
       "parent_prediction_timestamp": "2026-11-14T02:47:20.245958+00:00",
       "scope_start_utc": "2026-11-01T00:00:00+00:00",
       "scope_end_utc": "2026-11-28T00:00:00+00:00",
@@ -57,7 +57,7 @@
       "expected_roi": 0.14032021406113593,
       "grade": 7,
       "grade_units": 2.0,
-      "quote_age_seconds": 56.040835,
+      "quote_age_seconds": 31.379071,
       "review_only": false,
       "suggested_units": 2.0
     }
