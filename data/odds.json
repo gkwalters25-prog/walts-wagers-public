@@ -1,487 +1,7 @@
 {
-  "published_utc": "2026-11-14T01:54:51.592343+00:00",
+  "published_utc": "2026-11-14T02:21:43.272356+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
-    {
-      "event_id": "401906760",
-      "market": "h2h",
-      "home_team": "Alabama Crimson Tide",
-      "away_team": "Seton Hall Pirates",
-      "selection": "Alabama Crimson Tide",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -3500.0,
-      "opposite_odds": 1280.0,
-      "probability": 0.8554978358860083,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.718819+00:00"
-    },
-    {
-      "event_id": "401906760",
-      "market": "h2h",
-      "home_team": "Alabama Crimson Tide",
-      "away_team": "Seton Hall Pirates",
-      "selection": "Seton Hall Pirates",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 1280.0,
-      "opposite_odds": -3500.0,
-      "probability": 0.14450216411399175,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.718819+00:00"
-    },
-    {
-      "event_id": "401906760",
-      "market": "h2h",
-      "home_team": "Alabama Crimson Tide",
-      "away_team": "Seton Hall Pirates",
-      "selection": "Alabama Crimson Tide",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -2800.0,
-      "opposite_odds": 1300.0,
-      "probability": 0.8554978358860083,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.718819+00:00"
-    },
-    {
-      "event_id": "401906760",
-      "market": "h2h",
-      "home_team": "Alabama Crimson Tide",
-      "away_team": "Seton Hall Pirates",
-      "selection": "Seton Hall Pirates",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 1300.0,
-      "opposite_odds": -2800.0,
-      "probability": 0.14450216411399175,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.718819+00:00"
-    },
-    {
-      "event_id": "401917980",
-      "market": "h2h",
-      "home_team": "Arizona State Sun Devils",
-      "away_team": "UL Monroe Warhawks",
-      "selection": "Arizona State Sun Devils",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -50000.0,
-      "opposite_odds": 4000.0,
-      "probability": 0.9735228222876275,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.076518+00:00"
-    },
-    {
-      "event_id": "401917980",
-      "market": "h2h",
-      "home_team": "Arizona State Sun Devils",
-      "away_team": "UL Monroe Warhawks",
-      "selection": "UL Monroe Warhawks",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 4000.0,
-      "opposite_odds": -50000.0,
-      "probability": 0.026477177712372457,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.076518+00:00"
-    },
-    {
-      "event_id": "401909741",
-      "market": "h2h",
-      "home_team": "Auburn Tigers",
-      "away_team": "Arizona Wildcats",
-      "selection": "Auburn Tigers",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 118.0,
-      "opposite_odds": -142.0,
-      "probability": 0.549345776920569,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.590538+00:00"
-    },
-    {
-      "event_id": "401909741",
-      "market": "h2h",
-      "home_team": "Auburn Tigers",
-      "away_team": "Arizona Wildcats",
-      "selection": "Arizona Wildcats",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -142.0,
-      "opposite_odds": 118.0,
-      "probability": 0.45065422307943104,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.590538+00:00"
-    },
-    {
-      "event_id": "401909741",
-      "market": "h2h",
-      "home_team": "Auburn Tigers",
-      "away_team": "Arizona Wildcats",
-      "selection": "Auburn Tigers",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 120.0,
-      "opposite_odds": -142.0,
-      "probability": 0.549345776920569,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.590538+00:00"
-    },
-    {
-      "event_id": "401909741",
-      "market": "h2h",
-      "home_team": "Auburn Tigers",
-      "away_team": "Arizona Wildcats",
-      "selection": "Arizona Wildcats",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -142.0,
-      "opposite_odds": 120.0,
-      "probability": 0.45065422307943104,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.590538+00:00"
-    },
-    {
-      "event_id": "401911014",
-      "market": "h2h",
-      "home_team": "SMU Mustangs",
-      "away_team": "Ball State Cardinals",
-      "selection": "SMU Mustangs",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -10000.0,
-      "opposite_odds": 2200.0,
-      "probability": 0.9661645605888571,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.197306+00:00"
-    },
-    {
-      "event_id": "401911014",
-      "market": "h2h",
-      "home_team": "SMU Mustangs",
-      "away_team": "Ball State Cardinals",
-      "selection": "Ball State Cardinals",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 2200.0,
-      "opposite_odds": -10000.0,
-      "probability": 0.033835439411142865,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.197306+00:00"
-    },
-    {
-      "event_id": "401911014",
-      "market": "h2h",
-      "home_team": "SMU Mustangs",
-      "away_team": "Ball State Cardinals",
-      "selection": "SMU Mustangs",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -6500.0,
-      "opposite_odds": 2000.0,
-      "probability": 0.9661645605888571,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.197306+00:00"
-    },
-    {
-      "event_id": "401911014",
-      "market": "h2h",
-      "home_team": "SMU Mustangs",
-      "away_team": "Ball State Cardinals",
-      "selection": "Ball State Cardinals",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 2000.0,
-      "opposite_odds": -6500.0,
-      "probability": 0.033835439411142865,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.197306+00:00"
-    },
-    {
-      "event_id": "401920123",
-      "market": "h2h",
-      "home_team": "Idaho Vandals",
-      "away_team": "Cal Poly Mustangs",
-      "selection": "Idaho Vandals",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -120.0,
-      "opposite_odds": 100.0,
-      "probability": 0.6419293796245222,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.962199+00:00"
-    },
-    {
-      "event_id": "401920123",
-      "market": "h2h",
-      "home_team": "Idaho Vandals",
-      "away_team": "Cal Poly Mustangs",
-      "selection": "Cal Poly Mustangs",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 100.0,
-      "opposite_odds": -120.0,
-      "probability": 0.35807062037547777,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.962199+00:00"
-    },
-    {
-      "event_id": "401920123",
-      "market": "h2h",
-      "home_team": "Idaho Vandals",
-      "away_team": "Cal Poly Mustangs",
-      "selection": "Idaho Vandals",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -120.0,
-      "opposite_odds": 100.0,
-      "probability": 0.6419293796245222,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.962199+00:00"
-    },
-    {
-      "event_id": "401920123",
-      "market": "h2h",
-      "home_team": "Idaho Vandals",
-      "away_team": "Cal Poly Mustangs",
-      "selection": "Cal Poly Mustangs",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 100.0,
-      "opposite_odds": -120.0,
-      "probability": 0.35807062037547777,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.962199+00:00"
-    },
-    {
-      "event_id": "401909503",
-      "market": "h2h",
-      "home_team": "Northwestern Wildcats",
-      "away_team": "DePaul Blue Demons",
-      "selection": "Northwestern Wildcats",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -118.0,
-      "opposite_odds": -102.0,
-      "probability": 0.6514254158352901,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.323163+00:00"
-    },
-    {
-      "event_id": "401909503",
-      "market": "h2h",
-      "home_team": "Northwestern Wildcats",
-      "away_team": "DePaul Blue Demons",
-      "selection": "DePaul Blue Demons",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -102.0,
-      "opposite_odds": -118.0,
-      "probability": 0.3485745841647099,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.323163+00:00"
-    },
-    {
-      "event_id": "401909503",
-      "market": "h2h",
-      "home_team": "Northwestern Wildcats",
-      "away_team": "DePaul Blue Demons",
-      "selection": "Northwestern Wildcats",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -115.0,
-      "opposite_odds": -105.0,
-      "probability": 0.6514254158352901,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.323163+00:00"
-    },
-    {
-      "event_id": "401909503",
-      "market": "h2h",
-      "home_team": "Northwestern Wildcats",
-      "away_team": "DePaul Blue Demons",
-      "selection": "DePaul Blue Demons",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -105.0,
-      "opposite_odds": -115.0,
-      "probability": 0.3485745841647099,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.323163+00:00"
-    },
-    {
-      "event_id": "401906794",
-      "market": "h2h",
-      "home_team": "Mississippi State Bulldogs",
-      "away_team": "Xavier Musketeers",
-      "selection": "Mississippi State Bulldogs",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 146.0,
-      "opposite_odds": -176.0,
-      "probability": 0.46708800404679074,
-      "quote_updated_utc": "2026-11-14T01:54:02Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.406930+00:00"
-    },
-    {
-      "event_id": "401906794",
-      "market": "h2h",
-      "home_team": "Mississippi State Bulldogs",
-      "away_team": "Xavier Musketeers",
-      "selection": "Xavier Musketeers",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -176.0,
-      "opposite_odds": 146.0,
-      "probability": 0.5329119959532093,
-      "quote_updated_utc": "2026-11-14T01:54:02Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.406930+00:00"
-    },
-    {
-      "event_id": "401906794",
-      "market": "h2h",
-      "home_team": "Mississippi State Bulldogs",
-      "away_team": "Xavier Musketeers",
-      "selection": "Mississippi State Bulldogs",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 145.0,
-      "opposite_odds": -175.0,
-      "probability": 0.46708800404679074,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.406930+00:00"
-    },
-    {
-      "event_id": "401906794",
-      "market": "h2h",
-      "home_team": "Mississippi State Bulldogs",
-      "away_team": "Xavier Musketeers",
-      "selection": "Xavier Musketeers",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -175.0,
-      "opposite_odds": 145.0,
-      "probability": 0.5329119959532093,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.406930+00:00"
-    },
-    {
-      "event_id": "401921728",
-      "market": "h2h",
-      "home_team": "UNLV Rebels",
-      "away_team": "Stanford Cardinal",
-      "selection": "UNLV Rebels",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -104.0,
-      "opposite_odds": -115.0,
-      "probability": 0.6349601047289678,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.816963+00:00"
-    },
-    {
-      "event_id": "401921728",
-      "market": "h2h",
-      "home_team": "UNLV Rebels",
-      "away_team": "Stanford Cardinal",
-      "selection": "Stanford Cardinal",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -115.0,
-      "opposite_odds": -104.0,
-      "probability": 0.3650398952710322,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.816963+00:00"
-    },
-    {
-      "event_id": "401921728",
-      "market": "h2h",
-      "home_team": "UNLV Rebels",
-      "away_team": "Stanford Cardinal",
-      "selection": "UNLV Rebels",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 100.0,
-      "opposite_odds": -120.0,
-      "probability": 0.6349601047289678,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.816963+00:00"
-    },
-    {
-      "event_id": "401921728",
-      "market": "h2h",
-      "home_team": "UNLV Rebels",
-      "away_team": "Stanford Cardinal",
-      "selection": "Stanford Cardinal",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -120.0,
-      "opposite_odds": 100.0,
-      "probability": 0.3650398952710322,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:10.816963+00:00"
-    },
     {
       "event_id": "401917526",
       "market": "h2h",
@@ -491,12 +11,12 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-14T02:30Z",
       "sportsbook": "DraftKings",
-      "odds": -2100.0,
-      "opposite_odds": 1100.0,
+      "odds": -1800.0,
+      "opposite_odds": 1000.0,
       "probability": 0.9057639886443628,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.607292+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.634088+00:00"
     },
     {
       "event_id": "401917526",
@@ -507,12 +27,12 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-14T02:30Z",
       "sportsbook": "DraftKings",
-      "odds": 1100.0,
-      "opposite_odds": -2100.0,
+      "odds": 1000.0,
+      "opposite_odds": -1800.0,
       "probability": 0.0942360113556372,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.607292+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.634088+00:00"
     },
     {
       "event_id": "401917526",
@@ -526,9 +46,9 @@
       "odds": -2500.0,
       "opposite_odds": 1100.0,
       "probability": 0.9057639886443628,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.607292+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.634088+00:00"
     },
     {
       "event_id": "401917526",
@@ -542,9 +62,9 @@
       "odds": 1100.0,
       "opposite_odds": -2500.0,
       "probability": 0.0942360113556372,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.607292+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.634088+00:00"
     },
     {
       "event_id": "401917527",
@@ -558,9 +78,9 @@
       "odds": -330.0,
       "opposite_odds": 260.0,
       "probability": 0.8783224135491731,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.814113+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.803724+00:00"
     },
     {
       "event_id": "401917527",
@@ -574,9 +94,9 @@
       "odds": 260.0,
       "opposite_odds": -330.0,
       "probability": 0.12167758645082694,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.814113+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.803724+00:00"
     },
     {
       "event_id": "401917527",
@@ -590,9 +110,9 @@
       "odds": -310.0,
       "opposite_odds": 250.0,
       "probability": 0.8783224135491731,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.814113+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.803724+00:00"
     },
     {
       "event_id": "401917527",
@@ -606,9 +126,9 @@
       "odds": 250.0,
       "opposite_odds": -310.0,
       "probability": 0.12167758645082694,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.814113+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.803724+00:00"
     },
     {
       "event_id": "401917525",
@@ -622,9 +142,9 @@
       "odds": -280.0,
       "opposite_odds": 225.0,
       "probability": 0.7757383343045504,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.954272+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.884785+00:00"
     },
     {
       "event_id": "401917525",
@@ -638,9 +158,9 @@
       "odds": 225.0,
       "opposite_odds": -280.0,
       "probability": 0.22426166569544959,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.954272+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.884785+00:00"
     },
     {
       "event_id": "401917525",
@@ -654,9 +174,9 @@
       "odds": -278.0,
       "opposite_odds": 225.0,
       "probability": 0.7757383343045504,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.954272+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.884785+00:00"
     },
     {
       "event_id": "401917525",
@@ -670,9 +190,9 @@
       "odds": 225.0,
       "opposite_odds": -278.0,
       "probability": 0.22426166569544959,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.954272+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.884785+00:00"
     },
     {
       "event_id": "401920372",
@@ -686,9 +206,9 @@
       "odds": -1000.0,
       "opposite_odds": 640.0,
       "probability": 0.879408582372918,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.717356+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.710693+00:00"
     },
     {
       "event_id": "401920372",
@@ -702,9 +222,9 @@
       "odds": 640.0,
       "opposite_odds": -1000.0,
       "probability": 0.12059141762708203,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.717356+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.710693+00:00"
     },
     {
       "event_id": "401920372",
@@ -718,9 +238,9 @@
       "odds": -1000.0,
       "opposite_odds": 650.0,
       "probability": 0.879408582372918,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.717356+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.710693+00:00"
     },
     {
       "event_id": "401920372",
@@ -734,41 +254,9 @@
       "odds": 650.0,
       "opposite_odds": -1000.0,
       "probability": 0.12059141762708203,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:11.717356+00:00"
-    },
-    {
-      "event_id": "401924720",
-      "market": "h2h",
-      "home_team": "Cornell Big Red",
-      "away_team": "UNC Greensboro Spartans",
-      "selection": "Cornell Big Red",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-14T16:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -310.0,
-      "opposite_odds": 245.0,
-      "probability": 0.8317327642537954,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.177579+00:00"
-    },
-    {
-      "event_id": "401924720",
-      "market": "h2h",
-      "home_team": "Cornell Big Red",
-      "away_team": "UNC Greensboro Spartans",
-      "selection": "UNC Greensboro Spartans",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-14T16:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 245.0,
-      "opposite_odds": -310.0,
-      "probability": 0.1682672357462046,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.177579+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:11.710693+00:00"
     },
     {
       "event_id": "401919004",
@@ -782,9 +270,9 @@
       "odds": -880.0,
       "opposite_odds": 580.0,
       "probability": 0.8301259518885291,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.252208+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.055079+00:00"
     },
     {
       "event_id": "401919004",
@@ -798,9 +286,9 @@
       "odds": 580.0,
       "opposite_odds": -880.0,
       "probability": 0.1698740481114709,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.252208+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.055079+00:00"
     },
     {
       "event_id": "401919004",
@@ -814,9 +302,9 @@
       "odds": -750.0,
       "opposite_odds": 525.0,
       "probability": 0.8301259518885291,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.252208+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.055079+00:00"
     },
     {
       "event_id": "401919004",
@@ -830,9 +318,9 @@
       "odds": 525.0,
       "opposite_odds": -750.0,
       "probability": 0.1698740481114709,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.252208+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.055079+00:00"
     },
     {
       "event_id": "401920074",
@@ -846,9 +334,9 @@
       "odds": -850.0,
       "opposite_odds": 570.0,
       "probability": 0.8089435476435347,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.734992+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.503750+00:00"
     },
     {
       "event_id": "401920074",
@@ -862,9 +350,9 @@
       "odds": 570.0,
       "opposite_odds": -850.0,
       "probability": 0.1910564523564653,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.734992+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.503750+00:00"
     },
     {
       "event_id": "401922031",
@@ -878,9 +366,9 @@
       "odds": -118.0,
       "opposite_odds": -102.0,
       "probability": 0.5162587554477184,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.596483+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.352455+00:00"
     },
     {
       "event_id": "401922031",
@@ -894,9 +382,9 @@
       "odds": -102.0,
       "opposite_odds": -118.0,
       "probability": 0.4837412445522816,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.596483+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.352455+00:00"
     },
     {
       "event_id": "401922031",
@@ -907,12 +395,12 @@
       "selection_side": "home",
       "game_start_utc": "2026-11-14T18:00Z",
       "sportsbook": "DraftKings",
-      "odds": -118.0,
-      "opposite_odds": -102.0,
+      "odds": -122.0,
+      "opposite_odds": 102.0,
       "probability": 0.5162587554477184,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.596483+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.352455+00:00"
     },
     {
       "event_id": "401922031",
@@ -923,12 +411,12 @@
       "selection_side": "away",
       "game_start_utc": "2026-11-14T18:00Z",
       "sportsbook": "DraftKings",
-      "odds": -102.0,
-      "opposite_odds": -118.0,
+      "odds": 102.0,
+      "opposite_odds": -122.0,
       "probability": 0.4837412445522816,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:12.596483+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:12.352455+00:00"
     },
     {
       "event_id": "401911015",
@@ -942,9 +430,9 @@
       "odds": 270.0,
       "opposite_odds": -345.0,
       "probability": 0.3093719409796343,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:13.682089+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:13.541070+00:00"
     },
     {
       "event_id": "401911015",
@@ -958,9 +446,9 @@
       "odds": -345.0,
       "opposite_odds": 270.0,
       "probability": 0.6906280590203657,
-      "quote_updated_utc": "2026-11-14T01:54:03Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:13.682089+00:00"
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:13.541070+00:00"
     },
     {
       "event_id": "401911015",
@@ -974,9 +462,9 @@
       "odds": 295.0,
       "opposite_odds": -375.0,
       "probability": 0.3093719409796343,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:13.682089+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:13.541070+00:00"
     },
     {
       "event_id": "401911015",
@@ -990,9 +478,41 @@
       "odds": -375.0,
       "opposite_odds": 295.0,
       "probability": 0.6906280590203657,
-      "quote_updated_utc": "2026-11-14T01:54:35Z",
-      "quote_captured_utc": "2026-11-14T01:54:52.205537+00:00",
-      "prediction_timestamp": "2026-11-13T23:47:13.682089+00:00"
+      "quote_updated_utc": "2026-11-14T02:21:34Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:13.541070+00:00"
+    },
+    {
+      "event_id": "401924921",
+      "market": "h2h",
+      "home_team": "Denver Pioneers",
+      "away_team": "Wyoming Cowboys",
+      "selection": "Denver Pioneers",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-14T20:00Z",
+      "sportsbook": "FanDuel",
+      "odds": 250.0,
+      "opposite_odds": -315.0,
+      "probability": 0.409395798440232,
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:13.804188+00:00"
+    },
+    {
+      "event_id": "401924921",
+      "market": "h2h",
+      "home_team": "Denver Pioneers",
+      "away_team": "Wyoming Cowboys",
+      "selection": "Wyoming Cowboys",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-14T20:00Z",
+      "sportsbook": "FanDuel",
+      "odds": -315.0,
+      "opposite_odds": 250.0,
+      "probability": 0.590604201559768,
+      "quote_updated_utc": "2026-11-14T02:20:59Z",
+      "quote_captured_utc": "2026-11-14T02:21:44.705754+00:00",
+      "prediction_timestamp": "2026-11-14T02:07:13.804188+00:00"
     }
   ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
