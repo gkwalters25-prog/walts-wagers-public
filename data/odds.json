@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-16T03:34:52.716418+00:00",
+  "published_utc": "2026-11-16T03:44:51.152693+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -14,8 +14,8 @@
       "odds": -4000.0,
       "opposite_odds": 1600.0,
       "probability": 0.8962935280858694,
-      "quote_updated_utc": "2026-11-16T03:34:39Z",
-      "quote_captured_utc": "2026-11-16T03:34:56.512555+00:00",
+      "quote_updated_utc": "2026-11-16T03:43:31Z",
+      "quote_captured_utc": "2026-11-16T03:44:51.798599+00:00",
       "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
     },
     {
@@ -30,8 +30,40 @@
       "odds": 1600.0,
       "opposite_odds": -4000.0,
       "probability": 0.10370647191413063,
-      "quote_updated_utc": "2026-11-16T03:34:39Z",
-      "quote_captured_utc": "2026-11-16T03:34:56.512555+00:00",
+      "quote_updated_utc": "2026-11-16T03:43:31Z",
+      "quote_captured_utc": "2026-11-16T03:44:51.798599+00:00",
+      "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
+    },
+    {
+      "event_id": "401929419",
+      "market": "h2h",
+      "home_team": "UTEP Miners",
+      "away_team": "Florida A&M Rattlers",
+      "selection": "UTEP Miners",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-16T19:00Z",
+      "sportsbook": "FanDuel",
+      "odds": -4500.0,
+      "opposite_odds": 1600.0,
+      "probability": 0.8962935280858694,
+      "quote_updated_utc": "2026-11-16T03:44:41Z",
+      "quote_captured_utc": "2026-11-16T03:44:51.798599+00:00",
+      "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
+    },
+    {
+      "event_id": "401929419",
+      "market": "h2h",
+      "home_team": "UTEP Miners",
+      "away_team": "Florida A&M Rattlers",
+      "selection": "Florida A&M Rattlers",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-16T19:00Z",
+      "sportsbook": "FanDuel",
+      "odds": 1600.0,
+      "opposite_odds": -4500.0,
+      "probability": 0.10370647191413063,
+      "quote_updated_utc": "2026-11-16T03:44:41Z",
+      "quote_captured_utc": "2026-11-16T03:44:51.798599+00:00",
       "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
     }
   ],
