@@ -1,5 +1,5 @@
 {
-  "published_utc": "2026-11-16T04:54:51.054245+00:00",
+  "published_utc": "2026-11-16T05:23:45.263010+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
     {
@@ -14,9 +14,9 @@
       "odds": -4000.0,
       "opposite_odds": 1600.0,
       "probability": 0.8962935280858694,
-      "quote_updated_utc": "2026-11-16T04:53:55Z",
-      "quote_captured_utc": "2026-11-16T04:54:51.659020+00:00",
-      "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.230452+00:00"
     },
     {
       "event_id": "401929419",
@@ -30,9 +30,9 @@
       "odds": 1600.0,
       "opposite_odds": -4000.0,
       "probability": 0.10370647191413063,
-      "quote_updated_utc": "2026-11-16T04:53:55Z",
-      "quote_captured_utc": "2026-11-16T04:54:51.659020+00:00",
-      "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.230452+00:00"
     },
     {
       "event_id": "401929419",
@@ -46,9 +46,9 @@
       "odds": -4500.0,
       "opposite_odds": 1600.0,
       "probability": 0.8962935280858694,
-      "quote_updated_utc": "2026-11-16T04:53:56Z",
-      "quote_captured_utc": "2026-11-16T04:54:51.659020+00:00",
-      "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.230452+00:00"
     },
     {
       "event_id": "401929419",
@@ -62,9 +62,73 @@
       "odds": 1600.0,
       "opposite_odds": -4500.0,
       "probability": 0.10370647191413063,
-      "quote_updated_utc": "2026-11-16T04:53:56Z",
-      "quote_captured_utc": "2026-11-16T04:54:51.659020+00:00",
-      "prediction_timestamp": "2026-11-16T02:47:22.233500+00:00"
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.230452+00:00"
+    },
+    {
+      "event_id": "401921087",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Iona Gaels",
+      "selection": "UMBC Retrievers",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-16T23:00Z",
+      "sportsbook": "DraftKings",
+      "odds": 130.0,
+      "opposite_odds": -155.0,
+      "probability": 0.5954042440417868,
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.904696+00:00"
+    },
+    {
+      "event_id": "401921087",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Iona Gaels",
+      "selection": "Iona Gaels",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-16T23:00Z",
+      "sportsbook": "DraftKings",
+      "odds": -155.0,
+      "opposite_odds": 130.0,
+      "probability": 0.4045957559582132,
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.904696+00:00"
+    },
+    {
+      "event_id": "401921087",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Iona Gaels",
+      "selection": "UMBC Retrievers",
+      "selection_side": "home",
+      "game_start_utc": "2026-11-16T23:00Z",
+      "sportsbook": "FanDuel",
+      "odds": 128.0,
+      "opposite_odds": -154.0,
+      "probability": 0.5954042440417868,
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.904696+00:00"
+    },
+    {
+      "event_id": "401921087",
+      "market": "h2h",
+      "home_team": "UMBC Retrievers",
+      "away_team": "Iona Gaels",
+      "selection": "Iona Gaels",
+      "selection_side": "away",
+      "game_start_utc": "2026-11-16T23:00Z",
+      "sportsbook": "FanDuel",
+      "odds": -154.0,
+      "opposite_odds": 128.0,
+      "probability": 0.4045957559582132,
+      "quote_updated_utc": "2026-11-16T05:23:20Z",
+      "quote_captured_utc": "2026-11-16T05:23:46.601806+00:00",
+      "prediction_timestamp": "2026-11-16T05:07:08.904696+00:00"
     }
   ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
