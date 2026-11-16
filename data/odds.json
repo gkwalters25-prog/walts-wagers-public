@@ -1,71 +1,7 @@
 {
-  "published_utc": "2026-11-16T01:54:51.273162+00:00",
+  "published_utc": "2026-11-16T02:21:05.295965+00:00",
   "quote_timestamps_preserved": true,
   "rows": [
-    {
-      "event_id": "401911472",
-      "market": "h2h",
-      "home_team": "San Jos\u00e9 State Spartans",
-      "away_team": "Alabama State Hornets",
-      "selection": "San Jos\u00e9 State Spartans",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-16T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": -1200.0,
-      "opposite_odds": 740.0,
-      "probability": 0.8538848636772433,
-      "quote_updated_utc": "2026-11-16T01:54:12Z",
-      "quote_captured_utc": "2026-11-16T01:54:52.234964+00:00",
-      "prediction_timestamp": "2026-11-15T23:47:04.718517+00:00"
-    },
-    {
-      "event_id": "401911472",
-      "market": "h2h",
-      "home_team": "San Jos\u00e9 State Spartans",
-      "away_team": "Alabama State Hornets",
-      "selection": "Alabama State Hornets",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-16T02:00Z",
-      "sportsbook": "FanDuel",
-      "odds": 740.0,
-      "opposite_odds": -1200.0,
-      "probability": 0.14611513632275674,
-      "quote_updated_utc": "2026-11-16T01:54:12Z",
-      "quote_captured_utc": "2026-11-16T01:54:52.234964+00:00",
-      "prediction_timestamp": "2026-11-15T23:47:04.718517+00:00"
-    },
-    {
-      "event_id": "401911472",
-      "market": "h2h",
-      "home_team": "San Jos\u00e9 State Spartans",
-      "away_team": "Alabama State Hornets",
-      "selection": "San Jos\u00e9 State Spartans",
-      "selection_side": "home",
-      "game_start_utc": "2026-11-16T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": -1100.0,
-      "opposite_odds": 700.0,
-      "probability": 0.8538848636772433,
-      "quote_updated_utc": "2026-11-16T01:54:12Z",
-      "quote_captured_utc": "2026-11-16T01:54:52.234964+00:00",
-      "prediction_timestamp": "2026-11-15T23:47:04.718517+00:00"
-    },
-    {
-      "event_id": "401911472",
-      "market": "h2h",
-      "home_team": "San Jos\u00e9 State Spartans",
-      "away_team": "Alabama State Hornets",
-      "selection": "Alabama State Hornets",
-      "selection_side": "away",
-      "game_start_utc": "2026-11-16T02:00Z",
-      "sportsbook": "DraftKings",
-      "odds": 700.0,
-      "opposite_odds": -1100.0,
-      "probability": 0.14611513632275674,
-      "quote_updated_utc": "2026-11-16T01:54:12Z",
-      "quote_captured_utc": "2026-11-16T01:54:52.234964+00:00",
-      "prediction_timestamp": "2026-11-15T23:47:04.718517+00:00"
-    },
     {
       "event_id": "401929419",
       "market": "h2h",
@@ -78,9 +14,9 @@
       "odds": -3200.0,
       "opposite_odds": 1400.0,
       "probability": 0.8962935280858694,
-      "quote_updated_utc": "2026-11-16T01:54:12Z",
-      "quote_captured_utc": "2026-11-16T01:54:52.234964+00:00",
-      "prediction_timestamp": "2026-11-15T23:47:04.990782+00:00"
+      "quote_updated_utc": "2026-11-16T02:20:21Z",
+      "quote_captured_utc": "2026-11-16T02:21:06.382811+00:00",
+      "prediction_timestamp": "2026-11-16T02:07:35.297262+00:00"
     },
     {
       "event_id": "401929419",
@@ -94,9 +30,9 @@
       "odds": 1400.0,
       "opposite_odds": -3200.0,
       "probability": 0.10370647191413063,
-      "quote_updated_utc": "2026-11-16T01:54:12Z",
-      "quote_captured_utc": "2026-11-16T01:54:52.234964+00:00",
-      "prediction_timestamp": "2026-11-15T23:47:04.990782+00:00"
+      "quote_updated_utc": "2026-11-16T02:20:21Z",
+      "quote_captured_utc": "2026-11-16T02:21:06.382811+00:00",
+      "prediction_timestamp": "2026-11-16T02:07:35.297262+00:00"
     }
   ],
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
