@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-11-20T00:00:02.214482+00:00",
-  "source_run_id": "20261119T234503450339Z",
-  "forecast_rows": 540,
+  "generated_utc": "2026-11-20T02:21:59.714631+00:00",
+  "source_run_id": "20261120T020452484740Z",
+  "forecast_rows": 515,
   "certified_picks": 0,
   "refresh_mode": "AUTOMATIC_PRIVATE_WORKER"
 }
